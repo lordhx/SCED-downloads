@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"01148\",\n  \"type\": \"Act\",\n  \"cycle\": \"Core\"\n}",
   "GUID": "ac3a7b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Disrupting the Ritual",
+  "Nickname": "Сорвать ритуал",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

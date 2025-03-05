@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10629\",\n  \"type\": \"Act\"\n}",
   "GUID": "ce3eae",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Longest Night",
+  "Nickname": "Самая долгая ночь",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

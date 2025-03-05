@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10525\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 2\n}",
   "GUID": "7cd861",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Eerie Silence",
+  "Nickname": "Жуткая тишина",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

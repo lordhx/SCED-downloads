@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Essex County Express",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51025\"}",
   "GUID": "aa50e4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Экспресс округа Эссекс. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

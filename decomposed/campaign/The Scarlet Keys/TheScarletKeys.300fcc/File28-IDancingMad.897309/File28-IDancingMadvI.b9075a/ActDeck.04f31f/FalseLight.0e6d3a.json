@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09599\",\n  \"type\": \"Act\"\n}",
   "GUID": "0e6d3a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "False Light",
+  "Nickname": "Ложный свет",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

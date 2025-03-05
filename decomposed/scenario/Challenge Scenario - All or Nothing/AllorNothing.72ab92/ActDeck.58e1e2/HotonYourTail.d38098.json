@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"90014\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "d38098",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Hot on Your Tail",
+  "Nickname": "Сели на хвост",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

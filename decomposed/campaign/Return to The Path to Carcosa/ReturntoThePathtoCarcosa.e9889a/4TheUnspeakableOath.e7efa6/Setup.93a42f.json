@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Unspeakable Oath",
+  "Description": "Возвращение.",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"52034\"}",
   "GUID": "93a42f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Невыразимая клятва. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

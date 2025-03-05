@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Boundary Beyond",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53038\"}",
   "GUID": "fddc62",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Потусторонний предел. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

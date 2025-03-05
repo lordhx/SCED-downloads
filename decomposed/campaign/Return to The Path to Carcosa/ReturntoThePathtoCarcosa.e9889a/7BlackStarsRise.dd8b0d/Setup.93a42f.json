@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Black Stars Rise",
+  "Description": "Возвращение.",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"52054\"}",
   "GUID": "93a42f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Восход чёрных звёзд. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

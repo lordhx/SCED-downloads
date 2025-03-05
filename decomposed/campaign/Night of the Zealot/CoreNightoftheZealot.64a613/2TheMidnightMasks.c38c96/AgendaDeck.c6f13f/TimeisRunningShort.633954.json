@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"01122\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 8,\n  \"cycle\": \"Core\"\n}",
   "GUID": "633954",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Time is Running Short",
+  "Nickname": "Время на исходе",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

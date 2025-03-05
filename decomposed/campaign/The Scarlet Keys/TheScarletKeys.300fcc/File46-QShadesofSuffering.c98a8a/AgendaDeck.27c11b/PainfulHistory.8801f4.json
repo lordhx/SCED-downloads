@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5888": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883144543/321B70E2509F1852398770FBCEDC5FBAF016DA3D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883143515/90ED945CAC67945F969BB710BA6E58FF780F0CA3/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/heuf6or87gitwko9v65qt/ef4f3e1863454bfc88e9b5e569054c22.jpg?rlkey=9zksbyjg2p2v4brxbbvbpg7dv&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/4o19q2x9vnriaj3w1whaj/97aceffa5835452facd78a1b2caaef2a.jpg?rlkey=pk1oj339ynaq8lodr8khblxjw&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09661\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 3\n}",
   "GUID": "8801f4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Painful History",
+  "Nickname": "Болезненная история",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

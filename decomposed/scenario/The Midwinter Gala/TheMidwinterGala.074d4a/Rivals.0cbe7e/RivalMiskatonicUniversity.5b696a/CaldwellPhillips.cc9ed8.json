@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Leader. Guest. Miskatonic.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71022\"\n}",
   "GUID": "cc9ed8",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Caldwell Phillips",
+  "Nickname": "Caldwell Philips",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to In the Clutches of Chaos",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54049\"}",
   "GUID": "b2a198",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "В когтях хаоса. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

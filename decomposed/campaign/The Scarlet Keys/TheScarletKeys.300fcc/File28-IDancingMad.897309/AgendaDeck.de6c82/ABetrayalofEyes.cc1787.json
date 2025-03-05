@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09594\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 5\n}",
   "GUID": "cc1787",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "A Betrayal of Eyes",
+  "Nickname": "Предательство глаз",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

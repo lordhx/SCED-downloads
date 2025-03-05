@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10572\",\n  \"type\": \"Act\"\n}",
   "GUID": "681395",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Missing Sibling",
+  "Nickname": "В поисках сестры",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

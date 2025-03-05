@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10684\",\n  \"type\": \"Act\"\n}",
   "GUID": "29a721",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dawn of the Second Day",
+  "Nickname": "Рассвет второго дня",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

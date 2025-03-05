@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Disappearance at the Twilight Estate",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54016\"}",
   "GUID": "607a57",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Исчезновение в поместье Сумерек. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

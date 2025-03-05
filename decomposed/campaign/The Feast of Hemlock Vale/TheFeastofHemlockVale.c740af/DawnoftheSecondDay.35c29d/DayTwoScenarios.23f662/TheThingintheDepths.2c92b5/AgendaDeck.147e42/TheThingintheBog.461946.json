@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10590\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 10\n}",
   "GUID": "461946",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Thing in the Bog",
+  "Nickname": "Тварь в трясине",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

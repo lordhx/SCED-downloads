@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10682\",\n  \"type\": \"Act\"\n}",
   "GUID": "faf5d1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dawn of the First Day",
+  "Nickname": "Рассвет первого дня",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

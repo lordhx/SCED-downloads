@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Heart of the Elders, Part 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53048\"}",
   "GUID": "503706",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Сердце древних, часть 2. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

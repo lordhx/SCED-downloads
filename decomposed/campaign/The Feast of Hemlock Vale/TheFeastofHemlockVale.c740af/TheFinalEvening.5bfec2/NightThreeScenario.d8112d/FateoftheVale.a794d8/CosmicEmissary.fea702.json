@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "The Phantasm",
+  "Description": "Посланник. Цвет. Элитный.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10663\",\n  \"type\": \"Enemy\",\n  \"victory\": 1\n}",
   "GUID": "fea702",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Cosmic Emissary",
+  "Nickname": "Посланник космоса",
   "SidewaysCard": false,
   "Snap": false,
   "Sticky": true,

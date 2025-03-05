@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Monster. Geist. Witch. Spectral. Elite.",
+  "Description": "Монстр. Ведьма. Привидение. Потусторонняя. Элитная.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"05178g\",\n  \"type\": \"Treachery\",\n  \"cycle\": \"The Circle Undone\"\n}",
   "GUID": "0a3e7f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Heretic",
+  "Nickname": "Еретичка",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

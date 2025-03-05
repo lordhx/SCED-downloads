@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"05044\",\n  \"type\": \"Agenda\",\n  \"cycle\": \"The Circle Undone\"\n}",
   "GUID": "aa1331",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "JUDGMENT · XX",
+  "Nickname": "Суд · XX",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

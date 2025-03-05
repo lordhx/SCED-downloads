@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"01144\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 5,\n  \"cycle\": \"Core\"\n}",
   "GUID": "633954",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Ritual Begins",
+  "Nickname": "Ритуал начинается",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10506\",\n  \"type\": \"Act\"\n}",
   "GUID": "ec8c68",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Underground Maze",
+  "Nickname": "Подземный лабиринт",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Threads of Fate",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53028\"}",
   "GUID": "5213fa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Нити судьбы. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Blood on the Altar",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51032\"}",
   "GUID": "aa50e4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Кровь на алтаре. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09685\",\n  \"type\": \"Act\"\n}",
   "GUID": "c2660d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Traversing the Outside",
+  "Nickname": "Пробираясь по Внешнему миру",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

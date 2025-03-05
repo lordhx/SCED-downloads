@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Where Doom Awaits",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51047\"}",
   "GUID": "64e623",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Там, где ждёт погибель. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

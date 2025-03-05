@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Undimensioned and Unseen",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51041\"}",
   "GUID": "269f5a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Неизмеримые и невидимые. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

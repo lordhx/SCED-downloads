@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10654\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 4\n}",
   "GUID": "e1ebf3",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Spiral",
+  "Nickname": "Спираль",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

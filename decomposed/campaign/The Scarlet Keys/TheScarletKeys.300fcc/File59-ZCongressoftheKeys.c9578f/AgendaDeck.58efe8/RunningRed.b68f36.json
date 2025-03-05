@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09697\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 7\n}",
   "GUID": "b68f36",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Running Red",
+  "Nickname": "Всё окрашивается красным",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

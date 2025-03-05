@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Union and Disillusion",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54046\"}",
   "GUID": "5abc3a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Единство и разочарование. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

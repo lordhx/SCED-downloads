@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Depths of Yoth",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53059\"}",
   "GUID": "cb3824",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Глубины Йота. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

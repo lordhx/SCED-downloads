@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10653\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 5\n}",
   "GUID": "f52587",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Miasma",
+  "Nickname": "Скверна",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

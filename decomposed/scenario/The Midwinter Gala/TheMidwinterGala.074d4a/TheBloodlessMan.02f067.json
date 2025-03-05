@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Humanoid. Lantern Club. Elite.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71045\",\n  \"type\": \"Enemy\",\n  \"victory\": 1\n}",
   "GUID": "02f067",

@@ -14,7 +14,7 @@
   "CustomDeck": {
     "5369": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/sajn5x4z3w7uh0fb3zgg2/33ff5dc4b8264119bf9a10c8132bef17.jpg?rlkey=phkqijmuyw9xuygn5syp6p5en&dl=0",
       "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006053644/17C625E263010FF18F4B091B20F61C8D34715AF8/",
       "NumHeight": 4,
       "NumWidth": 5,
@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10604\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Hazard.\"\n}",
   "GUID": "1b673b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sinking Sludge",
+  "Nickname": "Опускающаяся топь",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

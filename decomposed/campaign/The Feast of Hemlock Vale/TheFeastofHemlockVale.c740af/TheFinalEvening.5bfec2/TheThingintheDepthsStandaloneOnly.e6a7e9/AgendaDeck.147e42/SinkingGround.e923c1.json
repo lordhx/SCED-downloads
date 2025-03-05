@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10589\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 3\n}",
   "GUID": "e923c1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sinking Ground",
+  "Nickname": "Земля тонет под ногами",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

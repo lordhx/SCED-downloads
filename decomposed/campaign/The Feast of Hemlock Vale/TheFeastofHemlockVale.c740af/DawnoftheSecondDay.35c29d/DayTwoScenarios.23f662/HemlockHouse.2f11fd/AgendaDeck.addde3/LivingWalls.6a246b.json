@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10528\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 8\n}",
   "GUID": "6a246b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Living Walls",
+  "Nickname": "Живые стены",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

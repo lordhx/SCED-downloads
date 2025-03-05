@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Doom of Eztli",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53017\"}",
   "GUID": "4dba97",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Погибель эцтли. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

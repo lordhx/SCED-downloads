@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2c",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"04127\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "e0833c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "At the Station",
+  "Nickname": "В участке",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

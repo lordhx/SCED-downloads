@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5893": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387921536/56AB6918516FF87D12E1DB3D2F0078D96DB85F2D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387920818/F2889E830C26E200A1B488461EDB92705A4778C1/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/24fgmhwcbnbjayrny9u2z/15156de7b41346d68b8231244a513018.jpg?rlkey=ewy3so99ap9tvcjgpwx8q4hd4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/m5atzpp13u7ntso9nd5ky/3447f1c17c5944c688d9926c9213f2ee.jpg?rlkey=v5bz6946fcol67fng53sppvxw&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Translocated Lens",
+  "Description": "Устойчивый.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09634\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\"\n}",
   "GUID": "521ae5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Sable Glass",
+  "Nickname": "Соболиное стекло",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Secret Name",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54029\"}",
   "GUID": "ef2641",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Тайное имя. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
