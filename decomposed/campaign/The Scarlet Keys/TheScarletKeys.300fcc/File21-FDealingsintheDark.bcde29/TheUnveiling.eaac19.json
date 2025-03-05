@@ -14,8 +14,8 @@
   "CustomDeck": {
     "5880": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387354245/5782347BBAAE7DBE252EE3FE0CE40F3A8D8E8398/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387353300/77D33DFFCAD6C1DA6E93FDDACEDF5A113498AF2F/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/esq5kdrcto9hko827rcp3/3ab625b3339c4d88b13621fd4b84bcb2.jpg?rlkey=b15ki3qv70rczv1owfxtr8ef6&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ajtm6kg8v0q81i52r6nd9/a2f21e3ec5fe417696cdd4d335acc559.jpg?rlkey=e3vjtk1vi9ym2y0fpmp5nvi6b&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Unveiling",
+  "Nickname": "Обнаружение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

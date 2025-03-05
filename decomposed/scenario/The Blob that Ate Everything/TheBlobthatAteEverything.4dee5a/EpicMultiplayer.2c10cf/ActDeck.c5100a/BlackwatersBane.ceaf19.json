@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"85008\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "ceaf19",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Blackwater's Bane",
+  "Nickname": "Погибель Блэкуотера",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

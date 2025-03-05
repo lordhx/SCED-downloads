@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"08554\",\n  \"type\": \"Act\",\n  \"cycle\": \"Edge of the Earth\"\n}",
   "GUID": "f31666",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Shadows of the Past (v. II)",
+  "Nickname": "Тень прошлого (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

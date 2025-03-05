@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2c",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"04129\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "b6ced7",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Friends in High Places",
+  "Nickname": "Друзья из высшего общества",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

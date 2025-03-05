@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Allied.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71027\",\n  \"type\": \"Story\",\n  \"class\": \"Rogue\"\n}",
   "GUID": "57261f",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Syndicate",
+  "Nickname": "The Syndicate [rogue]",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

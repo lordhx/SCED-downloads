@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10683\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 6\n}",
   "GUID": "dac8ac",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dark Clouds",
+  "Nickname": "Тёмные облака",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

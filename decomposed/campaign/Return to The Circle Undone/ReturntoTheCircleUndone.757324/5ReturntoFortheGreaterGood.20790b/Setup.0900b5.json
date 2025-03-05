@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to For the Greater Good",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54042\"}",
   "GUID": "0900b5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Ради высшего блага. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Untamed Wilds",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53016\"}",
   "GUID": "6c1985",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Дремучие джунгли. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

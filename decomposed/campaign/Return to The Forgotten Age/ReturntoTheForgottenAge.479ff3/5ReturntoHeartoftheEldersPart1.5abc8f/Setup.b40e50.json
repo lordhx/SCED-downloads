@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Heart of the Elders, Part 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53045\"}",
   "GUID": "b40e50",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Сердце древних, часть 1. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

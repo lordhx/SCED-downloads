@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5510": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1874087305860138601/7094CA9FD63C5320D7AD2F3142B30DE5221A2657/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/sajn5x4z3w7uh0fb3zgg2/33ff5dc4b8264119bf9a10c8132bef17.jpg?rlkey=phkqijmuyw9xuygn5syp6p5en&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/x91ouj0c4ylpq0twrroid/e71ba737097148c8aa050a1789d76a9f.jpg?rlkey=bgvuy9medqtvtria878l51dz8&dl=0",
       "NumHeight": 6,
       "NumWidth": 8,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"88038d\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Scheme.\"\n}",
   "GUID": "40b795",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Inconvenient Questioning",
+  "Nickname": "Неудобные вопросы",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

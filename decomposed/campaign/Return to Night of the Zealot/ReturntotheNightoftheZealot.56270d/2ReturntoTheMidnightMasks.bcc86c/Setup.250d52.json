@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Midnight Masks",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"50025\"}",
   "GUID": "250d52",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Полуночные маски. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

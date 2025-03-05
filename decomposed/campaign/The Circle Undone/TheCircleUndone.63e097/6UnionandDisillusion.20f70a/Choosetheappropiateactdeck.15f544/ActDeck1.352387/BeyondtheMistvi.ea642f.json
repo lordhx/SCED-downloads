@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"05243\",\n  \"type\": \"Act\",\n  \"cycle\": \"The Circle Undone\"\n}",
   "GUID": "ea642f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Beyond the Mist (v.i)",
+  "Nickname": "По ту сторону мглы (вариант I)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

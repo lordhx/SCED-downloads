@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10657\",\n  \"type\": \"Act\"\n}",
   "GUID": "371b78",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fate of the Vale (v.I)",
+  "Nickname": "Участь Хемлок-Вейл (вариант I)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

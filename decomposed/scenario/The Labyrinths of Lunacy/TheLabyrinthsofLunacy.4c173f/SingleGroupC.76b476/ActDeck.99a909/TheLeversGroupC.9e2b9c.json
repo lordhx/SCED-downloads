@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"70010\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "9e2b9c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Levers (Group C)",
+  "Nickname": "Рычаги (группа C)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

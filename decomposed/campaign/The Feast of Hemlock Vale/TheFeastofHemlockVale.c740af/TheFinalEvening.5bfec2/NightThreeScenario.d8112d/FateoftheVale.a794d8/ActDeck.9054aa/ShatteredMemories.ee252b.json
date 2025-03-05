@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10655\",\n  \"type\": \"Act\"\n}",
   "GUID": "ee252b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Shattered Memories",
+  "Nickname": "Расколотые воспоминания",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Miskatonic Museum",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51020\"}",
   "GUID": "96f250",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Мискатоникский музей. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Extracurricular Activities",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51012\"}",
   "GUID": "aa50e4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Факультативные занятия. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5367": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006052261/19972DA9635CE5C7AD74D9BDAE6196359172335A/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/sajn5x4z3w7uh0fb3zgg2/33ff5dc4b8264119bf9a10c8132bef17.jpg?rlkey=phkqijmuyw9xuygn5syp6p5en&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/grxo89qqfu0nnyfcxk2xq/5f3a2cb774fb474db4e0f73e8e054328.jpg?rlkey=9qljo9amvjb2c6zccrx4prtzj&dl=0",
       "NumHeight": 2,
       "NumWidth": 7,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10545\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Terror. Power.\"\n}",
   "GUID": "2370ce",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Out of the Walls",
+  "Nickname": "Изнутри стен",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

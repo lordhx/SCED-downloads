@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5888": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387696186/7B0C58300B54A2A584F5B92EE8887B7A1E8145FD/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387695838/A0E52C47DA84223410CE29E7B2BA34DA6073076E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/0kqi52wgcbyow4yj5bce9/390fc1f9b99d44eaa9ee11b935c5aa2b.jpg?rlkey=8yca39x8d5mqcpg8jhdetf9n1&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/4j51wzbohapkpamsww96x/1b7d202e621e4189ac8de621cd4cd4b2.jpg?rlkey=uj0kllkz86992f0fijse081we&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Silent Cacophony",
+  "Description": "Устойчивый.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09770\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\"\n}",
   "GUID": "531050",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Ruinous Chime",
+  "Nickname": "Губительный колокол",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Allied.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71021\",\n  \"type\": \"Story\",\n  \"class\": \"Seeker\"\n}",
   "GUID": "cda77b",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Miskatonic University",
+  "Nickname": "Miskatonic University [seeker]",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

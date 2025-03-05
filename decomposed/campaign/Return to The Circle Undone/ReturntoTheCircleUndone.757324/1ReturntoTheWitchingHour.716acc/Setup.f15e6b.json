@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The Witching Hour",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54017\"}",
   "GUID": "f15e6b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Час ведьмовства. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

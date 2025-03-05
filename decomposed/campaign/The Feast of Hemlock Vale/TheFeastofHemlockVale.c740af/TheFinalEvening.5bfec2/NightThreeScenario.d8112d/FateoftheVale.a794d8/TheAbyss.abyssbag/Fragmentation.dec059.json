@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5371": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2453969772006056023/3B1E7D4CD84213ED69594B15606531799383F4AA/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/sajn5x4z3w7uh0fb3zgg2/33ff5dc4b8264119bf9a10c8132bef17.jpg?rlkey=phkqijmuyw9xuygn5syp6p5en&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/sc3k393z6tjucmkajrkny/b356b2a2a45f47df87616ef694a0076f.jpg?rlkey=1k2l17stik6qx7lwn1s9jrgr7&dl=0",
       "NumHeight": 3,
       "NumWidth": 9,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Power.",
+  "Description": "Мощь.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10673\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Power.\"\n}",
   "GUID": "dec059",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fragmentation",
+  "Nickname": "Фрагментация",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

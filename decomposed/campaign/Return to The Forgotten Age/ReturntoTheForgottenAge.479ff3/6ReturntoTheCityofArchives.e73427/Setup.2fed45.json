@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The City of Archives",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53053\"}",
   "GUID": "2fed45",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Город архивов. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

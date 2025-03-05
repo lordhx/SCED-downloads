@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10607\",\n  \"type\": \"Act\",\n  \"victory\": 2\n}",
   "GUID": "d9bd15",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Desperate Search",
+  "Nickname": "Отчаянные поиски",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

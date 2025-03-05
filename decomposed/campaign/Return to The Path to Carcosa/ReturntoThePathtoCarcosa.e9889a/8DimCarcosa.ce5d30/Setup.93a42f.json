@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Dim Carcosa",
+  "Description": "Возвращение.",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"52059\"}",
   "GUID": "93a42f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Туманная Каркоза. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

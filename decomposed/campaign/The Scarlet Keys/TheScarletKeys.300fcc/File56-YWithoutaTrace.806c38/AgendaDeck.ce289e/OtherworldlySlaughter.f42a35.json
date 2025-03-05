@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09684\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 6\n}",
   "GUID": "f42a35",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Otherworldly Slaughter",
+  "Nickname": "Неземное кровопролитие",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

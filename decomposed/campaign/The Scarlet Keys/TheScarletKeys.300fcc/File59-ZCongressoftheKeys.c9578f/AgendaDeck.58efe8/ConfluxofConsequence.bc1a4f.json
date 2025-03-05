@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09695\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 3\n}",
   "GUID": "bc1a4f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Conflux of Consequence",
+  "Nickname": "Переплетение последствий",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

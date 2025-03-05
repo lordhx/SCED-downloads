@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"03165\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "7f4366",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "“The Really Bad Ones” (v. II)",
+  "Nickname": "«Те, что хуже всех» (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

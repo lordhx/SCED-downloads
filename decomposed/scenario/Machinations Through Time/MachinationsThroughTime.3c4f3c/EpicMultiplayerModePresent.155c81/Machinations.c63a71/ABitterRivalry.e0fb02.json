@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Machination.",
+  "Description": "Махинация.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"87033\",\n  \"type\": \"Story\",\n  \"victory\": 1,\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "e0fb02",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "A Bitter Rivalry",
+  "Nickname": "Ожесточённое соперничество",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

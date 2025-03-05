@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Allied.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71015\",\n  \"type\": \"Story\",\n  \"class\": \"Guardian\"\n}",
   "GUID": "51a099",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Foundation",
+  "Nickname": "The Foundation [guardian]",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

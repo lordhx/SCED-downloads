@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10552\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 7\n}",
   "GUID": "527946",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Desolation (v.II)",
+  "Nickname": "Запустение (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

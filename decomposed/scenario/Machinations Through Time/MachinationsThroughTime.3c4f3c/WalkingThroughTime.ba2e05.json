@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"87004\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "ba2e05",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Walking Through Time",
+  "Nickname": "Путешествуя во времени",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

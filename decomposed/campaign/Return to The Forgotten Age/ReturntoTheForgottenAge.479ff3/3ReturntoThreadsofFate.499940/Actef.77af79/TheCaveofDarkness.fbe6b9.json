@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2e",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"04135\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "fbe6b9",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Cave of Darkness",
+  "Nickname": "Пещера тьмы",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

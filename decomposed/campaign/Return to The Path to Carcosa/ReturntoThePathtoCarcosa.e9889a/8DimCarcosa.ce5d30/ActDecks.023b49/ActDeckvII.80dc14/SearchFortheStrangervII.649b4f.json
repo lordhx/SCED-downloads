@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"03322a\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "649b4f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Search For the Stranger (v. II)",
+  "Nickname": "Найти Незнакомца (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

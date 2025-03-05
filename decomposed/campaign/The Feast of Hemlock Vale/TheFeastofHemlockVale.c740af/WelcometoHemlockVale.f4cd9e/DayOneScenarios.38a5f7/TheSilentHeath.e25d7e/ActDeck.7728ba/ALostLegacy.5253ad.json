@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10553\",\n  \"type\": \"Act\"\n}",
   "GUID": "5253ad",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "A Lost Legacy",
+  "Nickname": "Утраченное наследие",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10571\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 12\n}",
   "GUID": "09a51e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Darkness Closes In",
+  "Nickname": "Тьма смыкается",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

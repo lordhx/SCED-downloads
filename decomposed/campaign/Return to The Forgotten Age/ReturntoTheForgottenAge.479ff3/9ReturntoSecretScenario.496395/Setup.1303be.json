@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Turn Back Time",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53066\"}",
   "GUID": "1303be",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Обратить время вспять. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

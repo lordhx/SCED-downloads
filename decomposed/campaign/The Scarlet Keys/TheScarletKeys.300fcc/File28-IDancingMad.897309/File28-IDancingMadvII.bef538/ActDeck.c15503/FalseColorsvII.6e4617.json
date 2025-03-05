@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09598\",\n  \"type\": \"Act\"\n}",
   "GUID": "6e4617",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "False Colors (v. II)",
+  "Nickname": "Ложный облик (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

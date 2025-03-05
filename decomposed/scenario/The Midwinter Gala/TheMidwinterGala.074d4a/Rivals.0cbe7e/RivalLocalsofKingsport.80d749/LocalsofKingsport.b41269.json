@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Allied.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71039\",\n  \"type\": \"Story\",\n  \"class\": \"Survivor\"\n}",
   "GUID": "b41269",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Locals of Kingsport",
+  "Nickname": "Locals of Kingsport [survivor]",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

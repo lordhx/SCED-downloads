@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Allied.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71033\",\n  \"type\": \"Story\",\n  \"class\": \"Mystic\"\n}",
   "GUID": "4a2568",
@@ -36,7 +36,7 @@
   "LuaScript": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Silver Twilight Lodge",
+  "Nickname": "Silver Twilight Lodge [mystic]",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

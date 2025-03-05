@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"71004\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 6\n}",
   "GUID": "f02004",

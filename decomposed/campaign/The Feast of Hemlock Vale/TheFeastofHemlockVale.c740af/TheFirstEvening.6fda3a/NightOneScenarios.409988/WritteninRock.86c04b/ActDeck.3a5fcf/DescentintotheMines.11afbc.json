@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10505\",\n  \"type\": \"Act\"\n}",
   "GUID": "11afbc",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Descent into the Mines",
+  "Nickname": "Спуск в шахты",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

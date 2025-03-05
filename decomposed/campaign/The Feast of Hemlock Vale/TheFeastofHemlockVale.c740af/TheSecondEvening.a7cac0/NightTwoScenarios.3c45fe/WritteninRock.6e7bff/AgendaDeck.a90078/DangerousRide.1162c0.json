@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10504\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 14\n}",
   "GUID": "1162c0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dangerous Ride",
+  "Nickname": "Опасная поездка",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 4",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09703\",\n  \"type\": \"Act\"\n}",
   "GUID": "80261d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Final Err",
+  "Nickname": "Последняя ошибка",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"05246\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "43e32c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Beyond the Mist (v.iv)",
+  "Nickname": "По ту сторону мглы (вариант IV)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

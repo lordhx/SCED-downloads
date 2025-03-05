@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to The House Always Wins",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"51015\"}",
   "GUID": "aa50e4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Казино всегда в выигрыше. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

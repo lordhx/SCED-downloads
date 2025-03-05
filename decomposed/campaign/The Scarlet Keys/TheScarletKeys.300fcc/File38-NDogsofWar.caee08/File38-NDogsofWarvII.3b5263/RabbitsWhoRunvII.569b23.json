@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5899": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328388051798/76225F57795BEA55DAAFC5BDD6FE20B03BE817E1/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328388050817/3846C805B13DCC2540225520E2AA269073A4DA7A/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/g511pkd0khw3t507h2z44/73620b3ade7f4ce8a839818be635b16f.jpg?rlkey=bjwlqdxq3hlchtr9xgbi42wts&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/7gd062xs96wdttu1hklxb/c6cee238ecff41079fafe2646dc87e39.jpg?rlkey=7fzcp96oxbilgcbytq89rl5di&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09640\",\n  \"type\": \"Act\"\n}",
   "GUID": "569b23",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Rabbits Who Run (v. II)",
+  "Nickname": "Ни шагу назад (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

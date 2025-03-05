@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to At Death's Doorstep",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54024\"}",
   "GUID": "72d7f8",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "На пороге смерти. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

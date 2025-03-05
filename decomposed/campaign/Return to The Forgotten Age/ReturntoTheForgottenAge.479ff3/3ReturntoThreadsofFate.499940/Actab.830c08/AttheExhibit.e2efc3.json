@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2a",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"04120\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "e2efc3",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "At the Exhibit",
+  "Nickname": "На выставке",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

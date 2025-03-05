@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5884": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387458474/047266E9298C296F9A05DF7F5D63448A43DE1A0C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914207505/FA7473632ADB17221600DF0C95CD2E0A8CAC4F07/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vbr3i86uc4y5nv23c7j7b/c8904e53f6124c75af5c396360934a21.jpg?rlkey=2asbjls20o771luewjryqpzwq&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/s77r7sl87vji5makhkanz/2b1f718beff64aeaa52e3081053d77c2.jpg?rlkey=7519nvdkkjbc9wlytj2aufsmh&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09522\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 7\n}",
   "GUID": "3f53a9",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Empty Streets",
+  "Nickname": "Пустые улицы",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

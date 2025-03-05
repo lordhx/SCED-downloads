@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3a",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"04123\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "20530b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Find the Relic",
+  "Nickname": "Найти реликвию",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

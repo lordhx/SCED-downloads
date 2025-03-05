@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10592\",\n  \"type\": \"Act\"\n}",
   "GUID": "a86a51",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Discovery of a Lifetime",
+  "Nickname": "Мутировавшая рептилия",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2665": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1874087305860121579/39578AC78E34DAA169AB4DE4246BB1E002528B8C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474902965618/1DA915D6106D951592457701CBA262B73CBEDE6B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/4h1m9cohqwliyacn5o956/cce7d384b5ea4173980c50ce1de773c0.jpg?rlkey=r7efz0hgmd6fb7qxk29ma0ip4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/y20msxpbkrb97p1d3ffsh/2b3a7f87d996414cb0cc658bbf2f50e5.jpg?rlkey=c5aifhtusxzakj7pg0ohuuxr0&dl=0",
       "NumHeight": 5,
       "NumWidth": 7,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 4",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"88005\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 12\n}",
   "GUID": "5e1a5a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "All Bets Down",
+  "Nickname": "Ставки сделаны",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

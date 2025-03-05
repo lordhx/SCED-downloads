@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"10574\",\n  \"type\": \"Act\"\n}",
   "GUID": "54db7c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Face to Carapace",
+  "Nickname": "Личиной к хитину",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

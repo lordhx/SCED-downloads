@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Curtain Call",
+  "Description": "Возвращение.",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"52014\"}",
   "GUID": "93a42f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Дайте занавес. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

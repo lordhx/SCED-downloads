@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Before the Black Throne",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"54056\"}",
   "GUID": "0ff52f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Перед Чёрным престолом. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

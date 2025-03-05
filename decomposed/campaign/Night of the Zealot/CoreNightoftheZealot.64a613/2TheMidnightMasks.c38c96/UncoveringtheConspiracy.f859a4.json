@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"01123\",\n  \"type\": \"Act\",\n  \"class\": \"Mythos\",\n  \"cycle\": \"Core\"\n}",
   "GUID": "f859a4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Uncovering the Conspiracy",
+  "Nickname": "Раскрыть заговор",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

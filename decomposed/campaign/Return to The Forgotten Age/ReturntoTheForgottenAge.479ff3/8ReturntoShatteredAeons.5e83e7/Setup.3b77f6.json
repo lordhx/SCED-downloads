@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to Shattered Aeons",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"53061\"}",
   "GUID": "3b77f6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Расколотая вечность. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

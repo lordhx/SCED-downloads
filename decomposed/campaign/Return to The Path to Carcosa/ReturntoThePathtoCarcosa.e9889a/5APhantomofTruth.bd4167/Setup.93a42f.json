@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Return to A Phantom of Truth",
+  "Description": "Возвращение.",
   "DragSelectable": true,
   "GMNotes": "{\"id\":\"52040\"}",
   "GUID": "93a42f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Призрак истины. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
