@@ -57,13 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03227",
-    "type": "Treachery",
-    "class": "Neutral",
-    "traits": "Madness. Pact.",
-    "weakness": true,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

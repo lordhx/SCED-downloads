@@ -58,26 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03134",
-    "type": "Location",
-    "traits": "Second Floor.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "SecondFloor",
-      "connections": "Circle"
-    },
-    "locationBack": {
-      "icons": "Tee|SecondFloor",
-      "connections": "Circle",
-      "uses": [
-        {
-          "count": 1,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

@@ -58,19 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03127",
-    "type": "Location",
-    "traits": "Ground Floor.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Square|GroundFloor",
-      "connections": "Circle|GroundFloor"
-    },
-    "locationBack": {
-      "icons": "Square|GroundFloor",
-      "connections": "Circle|GroundFloor"
-    }
-  }
+  "XmlUI": ""
 }

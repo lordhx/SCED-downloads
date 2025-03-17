@@ -58,16 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03143",
-    "type": "Asset",
-    "class": "Neutral",
-    "cost": 2,
-    "traits": "Item. Clothing.",
-    "willpowerIcons": 1,
-    "combatIcons": 1,
-    "agilityIcons": 1,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

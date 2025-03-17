@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03099",
-    "type": "Enemy",
-    "traits": "Humanoid. Cultist.",
-    "victory": 1,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

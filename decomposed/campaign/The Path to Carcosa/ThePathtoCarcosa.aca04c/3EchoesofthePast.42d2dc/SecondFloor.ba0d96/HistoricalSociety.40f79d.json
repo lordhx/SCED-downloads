@@ -58,26 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03133",
-    "type": "Location",
-    "traits": "Second Floor. Passageway.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "SecondFloor",
-      "connections": "Circle"
-    },
-    "locationBack": {
-      "icons": "Triangle|SecondFloor",
-      "connections": "Circle|Tilde",
-      "uses": [
-        {
-          "countPerInvestigator": 2,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

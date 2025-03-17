@@ -57,13 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03122",
-    "type": "Agenda",
-    "class": "Mythos",
-    "doomThreshold": 0,
-    "cycle": "Standalone",
-    "doomThresholdPerInvestigator": 2
-  }
+  "XmlUI": ""
 }

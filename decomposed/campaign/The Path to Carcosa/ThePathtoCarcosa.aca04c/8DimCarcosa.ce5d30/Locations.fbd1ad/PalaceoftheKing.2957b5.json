@@ -58,22 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03331b",
-    "type": "Location",
-    "traits": "Otherworld.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Star",
-      "connections": "Triangle|Diamond|Heart|Apostrophe|Hourglass",
-      "uses": [
-        {
-          "countPerInvestigator": 3,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

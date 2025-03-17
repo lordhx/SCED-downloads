@@ -58,18 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03075",
-    "type": "Location",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Tilde",
-      "connections": "Square|Circle"
-    },
-    "locationBack": {
-      "icons": "Tilde",
-      "connections": "Square|Circle"
-    }
-  }
+  "XmlUI": ""
 }

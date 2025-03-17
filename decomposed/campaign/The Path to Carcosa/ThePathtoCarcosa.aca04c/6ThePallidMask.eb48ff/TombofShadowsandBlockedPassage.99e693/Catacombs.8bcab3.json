@@ -24,11 +24,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": {
-    "id": "03256",
-    "type": "Location",
-    "cycle": "Standalone"
-  },
+  "GMNotes": "{\n  \"id\": \"03256\",\n  \"type\": \"Location\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "8bcab3",
   "Grid": true,
   "GridProjection": false,

@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "01161",
-    "type": "Enemy",
-    "class": "Mythos",
-    "traits": "Humanoid. Monster. Ghoul.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

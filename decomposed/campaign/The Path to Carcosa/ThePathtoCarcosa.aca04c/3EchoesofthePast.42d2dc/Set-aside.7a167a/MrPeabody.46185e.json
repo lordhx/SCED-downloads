@@ -58,12 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03141",
-    "type": "Asset",
-    "class": "Neutral",
-    "traits": "Ally. Historical Society.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

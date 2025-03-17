@@ -57,11 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03226",
-    "type": "Treachery",
-    "traits": "Terror.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

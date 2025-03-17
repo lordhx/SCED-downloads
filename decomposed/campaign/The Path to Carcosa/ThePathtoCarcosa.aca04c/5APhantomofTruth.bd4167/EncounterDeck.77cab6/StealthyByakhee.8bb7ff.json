@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03222",
-    "type": "Enemy",
-    "class": "Mythos",
-    "traits": "Monster. Byakhee.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

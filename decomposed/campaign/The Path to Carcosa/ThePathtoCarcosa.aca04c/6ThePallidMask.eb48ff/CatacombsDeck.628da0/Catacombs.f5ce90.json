@@ -58,21 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03247",
-    "type": "Location",
-    "cycle": "Standalone",
-    "locationBack": {
-      "icons": "",
-      "connections": "",
-      "uses": [
-        {
-          "countPerInvestigator": 2,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

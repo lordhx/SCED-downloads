@@ -58,26 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03285",
-    "type": "Location",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Triangle",
-      "connections": "Tilde|Diamond|SlantedEquals"
-    },
-    "locationBack": {
-      "victory": 1,
-      "icons": "Triangle",
-      "connections": "Tilde|Diamond|SlantedEquals",
-      "uses": [
-        {
-          "countPerInvestigator": 2,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

@@ -57,13 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03140",
-    "type": "Enemy",
-    "class": "Mythos",
-    "traits": "Monster. Servitor. Elite.",
-    "victory": 2,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

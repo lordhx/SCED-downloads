@@ -58,12 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03068b",
-    "type": "Enemy",
-    "traits": "Monster. Possessed. Elite.",
-    "victory": 0,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

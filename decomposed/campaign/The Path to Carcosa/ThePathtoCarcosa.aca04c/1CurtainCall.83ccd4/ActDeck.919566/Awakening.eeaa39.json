@@ -57,11 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03046",
-    "type": "Act",
-    "cycle": "Standalone",
-    "clueThresholdPerInvestigator": 3
-  }
+  "XmlUI": ""
 }

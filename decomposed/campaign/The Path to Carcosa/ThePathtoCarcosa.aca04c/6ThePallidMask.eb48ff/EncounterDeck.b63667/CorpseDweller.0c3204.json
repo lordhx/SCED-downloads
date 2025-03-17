@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03259",
-    "type": "Enemy",
-    "class": "Mythos",
-    "traits": "Monster.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

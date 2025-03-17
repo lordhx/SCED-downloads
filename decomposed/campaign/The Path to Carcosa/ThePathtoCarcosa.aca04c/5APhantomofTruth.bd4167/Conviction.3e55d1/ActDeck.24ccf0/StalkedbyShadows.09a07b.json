@@ -57,11 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03207",
-    "type": "Act",
-    "class": "Mythos",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

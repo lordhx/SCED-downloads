@@ -58,19 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03170",
-    "type": "Location",
-    "traits": "Arkham Asylum.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Hourglass",
-      "connections": "Circle|Heart|Tilde"
-    },
-    "locationBack": {
-      "icons": "Hourglass",
-      "connections": "Circle|Heart|Tilde"
-    }
-  }
+  "XmlUI": ""
 }

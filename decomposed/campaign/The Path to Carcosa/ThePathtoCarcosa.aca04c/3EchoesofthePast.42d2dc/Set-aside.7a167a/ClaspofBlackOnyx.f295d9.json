@@ -58,14 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03142",
-    "type": "Asset",
-    "class": "Neutral",
-    "cost": 1,
-    "traits": "Item. Relic.",
-    "weakness": true,
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

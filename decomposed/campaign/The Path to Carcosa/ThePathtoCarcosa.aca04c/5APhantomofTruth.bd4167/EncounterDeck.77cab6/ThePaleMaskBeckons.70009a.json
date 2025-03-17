@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03105",
-    "type": "Treachery",
-    "class": "Mythos",
-    "traits": "Omen. Pact.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

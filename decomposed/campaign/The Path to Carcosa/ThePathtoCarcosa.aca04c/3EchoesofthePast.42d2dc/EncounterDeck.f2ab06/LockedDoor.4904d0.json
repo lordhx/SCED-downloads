@@ -57,12 +57,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "01174",
-    "type": "Treachery",
-    "class": "Mythos",
-    "traits": "Obstacle.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

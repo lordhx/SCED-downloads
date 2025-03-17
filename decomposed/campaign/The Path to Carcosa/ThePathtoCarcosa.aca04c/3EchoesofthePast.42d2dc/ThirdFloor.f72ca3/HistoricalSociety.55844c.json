@@ -58,26 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03138",
-    "type": "Location",
-    "traits": "Third Floor.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "ThirdFloor",
-      "connections": "Star"
-    },
-    "locationBack": {
-      "icons": "SlantedEquals|ThirdFloor",
-      "connections": "Star",
-      "uses": [
-        {
-          "countPerInvestigator": 1,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

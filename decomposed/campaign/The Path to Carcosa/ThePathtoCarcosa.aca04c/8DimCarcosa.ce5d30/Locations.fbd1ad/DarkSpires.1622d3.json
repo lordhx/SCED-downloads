@@ -58,22 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03330b",
-    "type": "Location",
-    "traits": "Otherworld.",
-    "cycle": "Standalone",
-    "locationFront": {
-      "icons": "Crescent",
-      "connections": "SlantedEquals",
-      "uses": [
-        {
-          "countPerInvestigator": 2,
-          "type": "Clue",
-          "token": "clue"
-        }
-      ]
-    }
-  }
+  "XmlUI": ""
 }

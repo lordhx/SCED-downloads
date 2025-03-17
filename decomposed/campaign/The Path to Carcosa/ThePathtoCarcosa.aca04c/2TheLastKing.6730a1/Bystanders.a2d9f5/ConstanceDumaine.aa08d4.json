@@ -58,12 +58,5 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": "",
-  "GMNotes": {
-    "id": "03076a",
-    "type": "Asset",
-    "class": "Neutral",
-    "traits": "Bystander.",
-    "cycle": "Standalone"
-  }
+  "XmlUI": ""
 }

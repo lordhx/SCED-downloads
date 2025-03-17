@@ -24,11 +24,7 @@
   },
   "Description": "",
   "DragSelectable": true,
-  "GMNotes": {
-    "id": "03047a",
-    "type": "Act",
-    "cycle": "Standalone"
-  },
+  "GMNotes": "{\n  \"id\": \"03047a\",\n  \"type\": \"Act\",\n  \"cycle\": \"Standalone\"\n}",
   "GUID": "94060e",
   "Grid": true,
   "GridProjection": false,
