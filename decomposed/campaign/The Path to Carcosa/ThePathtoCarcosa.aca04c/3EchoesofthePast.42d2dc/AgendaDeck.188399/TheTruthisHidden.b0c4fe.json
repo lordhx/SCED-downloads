@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5553": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627987825/3F75AF019AA235E62BE016D1294538395F5FD0EC/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627987175/2D09488350DCAA9D47EC0E02D89F74B4C953B17C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/dxxn0r7d52nr3uen63t1p/d34cc3eb6e7e476da4ddda35374130ab.jpg?rlkey=4xqas4id09om17wzpgpi7o8tz&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ei9m3a6dt9q39pgrwk01g/619e5a3ab53e477abce53d51c817c9af.jpg?rlkey=opzdt5tsu9citmq3g2e3b5vcy&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/3EchoesofthePast.42d2dc/AgendaDeck.188399/TheTruthisHidden.b0c4fe.gmnotes",
   "GUID": "b0c4fe",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Truth is Hidden",
+  "Nickname": "Правда скрыта",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
@@ -57,5 +57,13 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03121",
+    "type": "Agenda",
+    "class": "Mythos",
+    "doomThreshold": 0,
+    "cycle": "Standalone",
+    "doomThresholdPerInvestigator": 2
+  }
 }

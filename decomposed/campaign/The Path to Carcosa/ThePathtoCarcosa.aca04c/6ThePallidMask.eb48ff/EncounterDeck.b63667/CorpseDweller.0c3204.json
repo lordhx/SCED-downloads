@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2322": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378761608/B291D276D6FF71FDB43B69DE7507D56767BE975E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/flp5focx5lw29iplv689w/986328eec7ca4cd080a7d1f984bd562e.jpg?rlkey=2k9v241s6dy7p8vk56u14gwgj&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Monster.",
+  "Description": "Монстр.",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/6ThePallidMask.eb48ff/EncounterDeck.b63667/CorpseDweller.0c3204.gmnotes",
   "GUID": "0c3204",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Corpse Dweller",
+  "Nickname": "Живущий в трупах",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
@@ -57,5 +57,12 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03259",
+    "type": "Enemy",
+    "class": "Mythos",
+    "traits": "Monster.",
+    "cycle": "Standalone"
+  }
 }

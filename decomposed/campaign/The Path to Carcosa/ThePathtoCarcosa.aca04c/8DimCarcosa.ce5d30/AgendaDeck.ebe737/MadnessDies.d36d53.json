@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5553": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627939429/131CE52DB9A7AE11C584C20935CA03DEAEA9B705/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627939210/4F759EBD1B44B99BEB7D31E5C62488F2ADC39FDB/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/rtgfiwcabwy9g5gu7sb7x/46e6ef9a34a9492da4c141215c26c0a9.jpg?rlkey=0sf18tuwjcrpsygioj0lynmfb&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/53wwahs8k55ccndxpbns1/1dc96d5feb044ad3be0f0fd3a76dc06a.jpg?rlkey=wbysd6pqeysixulbp7w7v05u0&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/8DimCarcosa.ce5d30/AgendaDeck.ebe737/MadnessDies.d36d53.gmnotes",
   "GUID": "d36d53",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Madness Dies",
+  "Nickname": "Безумие умирает",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
@@ -57,5 +57,12 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03319",
+    "type": "Agenda",
+    "class": "Mythos",
+    "doomThreshold": 9,
+    "cycle": "Standalone"
+  }
 }

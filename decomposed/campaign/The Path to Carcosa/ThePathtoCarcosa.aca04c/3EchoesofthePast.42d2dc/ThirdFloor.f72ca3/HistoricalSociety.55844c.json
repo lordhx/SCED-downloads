@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2320": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378685352/22FD056BAF1966FE2D1AC46FC1BF90C1A03A1404/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378686413/C1688C1A909FDC7357EB3EEFADAB1FBD5818BD3E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l4la1cz9l53ztpxdq39b5/83c0a255eb4a48268bf098e87dbbeb33.jpg?rlkey=rugvks39b9xl6m5mjvmqw2ldm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2s72ga5nm9xo6xsgh6m9z/aff0d480f01c44578dd9595cc5496fa6.jpg?rlkey=4s7ctq8p6u61egnql9foueh1t&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Third Floor.",
+  "Description": "Третий этаж.",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/3EchoesofthePast.42d2dc/ThirdFloor.f72ca3/HistoricalSociety.55844c.gmnotes",
   "GUID": "55844c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Historical Society",
+  "Nickname": "Историческое общество",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
@@ -58,5 +58,26 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03138",
+    "type": "Location",
+    "traits": "Third Floor.",
+    "cycle": "Standalone",
+    "locationFront": {
+      "icons": "ThirdFloor",
+      "connections": "Star"
+    },
+    "locationBack": {
+      "icons": "SlantedEquals|ThirdFloor",
+      "connections": "Star",
+      "uses": [
+        {
+          "countPerInvestigator": 1,
+          "type": "Clue",
+          "token": "clue"
+        }
+      ]
+    }
+  }
 }

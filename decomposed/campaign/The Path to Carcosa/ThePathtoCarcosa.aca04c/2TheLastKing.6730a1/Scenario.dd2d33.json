@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2320": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378685352/22FD056BAF1966FE2D1AC46FC1BF90C1A03A1404/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378686413/C1688C1A909FDC7357EB3EEFADAB1FBD5818BD3E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l4la1cz9l53ztpxdq39b5/83c0a255eb4a48268bf098e87dbbeb33.jpg?rlkey=rugvks39b9xl6m5mjvmqw2ldm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2s72ga5nm9xo6xsgh6m9z/aff0d480f01c44578dd9595cc5496fa6.jpg?rlkey=4s7ctq8p6u61egnql9foueh1t&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Last King",
+  "Description": "Последний король",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/2TheLastKing.6730a1/Scenario.dd2d33.gmnotes",
   "GUID": "dd2d33",
@@ -54,5 +54,48 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03061",
+    "type": "ScenarioReference",
+    "class": "Mythos",
+    "tokens": {
+      "front": {
+        "Skull": {
+          "description": "Reveal another token. If you fail, place 1 doom on a Lunatic enemy in play.",
+          "modifier": 0
+        },
+        "Cultist": {
+          "description": "-2. If you fail, place 1 of your clues on your location.",
+          "modifier": -2
+        },
+        "Tablet": {
+          "description": "-4. If you fail, take 1 horror.",
+          "modifier": -4
+        },
+        "Elder Thing": {
+          "description": "-X. X is the shroud value of your location.",
+          "modifier": -999
+        }
+      },
+      "back": {
+        "Skull": {
+          "description": "Reveal another token. If you fail, place 1 doom on the Lunatic enemy in play with the most health.",
+          "modifier": 0
+        },
+        "Cultist": {
+          "description": "-3. Place 1 of your clues on your location.",
+          "modifier": -3
+        },
+        "Tablet": {
+          "description": "-4. Take 1 horror.",
+          "modifier": -4
+        },
+        "Elder Thing": {
+          "description": "-X. X is the shroud value of your location. If you fail, take 1 damage.",
+          "modifier": -999
+        }
+      }
+    }
+  }
 }

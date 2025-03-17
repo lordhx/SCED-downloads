@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2320": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378685352/22FD056BAF1966FE2D1AC46FC1BF90C1A03A1404/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378686413/C1688C1A909FDC7357EB3EEFADAB1FBD5818BD3E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l4la1cz9l53ztpxdq39b5/83c0a255eb4a48268bf098e87dbbeb33.jpg?rlkey=rugvks39b9xl6m5mjvmqw2ldm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2s72ga5nm9xo6xsgh6m9z/aff0d480f01c44578dd9595cc5496fa6.jpg?rlkey=4s7ctq8p6u61egnql9foueh1t&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Unspeakable Oath",
+  "Description": "Невыразимая клятва",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/4TheUnspeakableOath.e7efa6/Scenario.aa08d4.gmnotes",
   "GUID": "aa08d4",
@@ -54,5 +54,48 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03159",
+    "type": "ScenarioReference",
+    "class": "Mythos",
+    "tokens": {
+      "front": {
+        "Skull": {
+          "description": "-1. If you fail, randomly choose an enemy from among the set-aside Monster enemies and place it beneath the act deck without looking at it.",
+          "modifier": -1
+        },
+        "Cultist": {
+          "description": "-X. X is the amount of horror on you.",
+          "modifier": -999
+        },
+        "Tablet": {
+          "description": "-X. X is the base shround value of your location.",
+          "modifier": -999
+        },
+        "Elder Thing": {
+          "description": "0. Either randomly choose an enemy from among the set-aside Monster enemies and place it beneath the act deck without looking at it, or this test automatically fails instead.",
+          "modifier": 0
+        }
+      },
+      "back": {
+        "Skull": {
+          "description": "Reveal another token. If you fail, randomly choose an enemy from among the set-aside Monster enemies and place it beneath the act deck without looking at it. (Limit once per test)",
+          "modifier": 0
+        },
+        "Cultist": {
+          "description": "-X. X is the amount of horror on you. If you fail, take 1 horror.",
+          "modifier": -999
+        },
+        "Tablet": {
+          "description": "-X. X is the base shround value of your location. If you fail, take 1 horror.",
+          "modifier": -999
+        },
+        "Elder Thing": {
+          "description": "0. Either randomly choose an enemy from among the set-aside Monster enemies and place it beneath the act deck without looking at it, or this test automatically fails instead.",
+          "modifier": 0
+        }
+      }
+    }
+  }
 }

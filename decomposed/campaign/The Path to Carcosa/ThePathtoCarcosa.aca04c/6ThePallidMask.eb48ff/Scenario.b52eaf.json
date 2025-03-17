@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2319": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378686851/006B65A59360F63826342C2B1A062C1AD727BD53/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378687267/945F8EF94DC605E0731E37C1BCD3FE65FCB86D02/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/wywjilgh74eiwmd43hc9h/483644b55bf0476da5d414bddb21e45f.jpg?rlkey=3z4c66av84705sadxdmwyepqg&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/5h1z4d580bcb4iiqujzbr/9dbe9878fc634e8d8ea2a2ab32ac5be8.jpg?rlkey=4kc54eb52z6b1sfxks6xf5859&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Pallid Mask",
+  "Description": "Бледная маска",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/6ThePallidMask.eb48ff/Scenario.b52eaf.gmnotes",
   "GUID": "b52eaf",
@@ -54,5 +54,48 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03240",
+    "type": "ScenarioReference",
+    "class": "Mythos",
+    "tokens": {
+      "front": {
+        "Skull": {
+          "description": "-X. X is the number of locations away from the starting location you are (max 5).",
+          "modifier": -999
+        },
+        "Cultist": {
+          "description": "-2. If this token is revealed during an attack and this skill test is successful, this attack deals 1 less damage.",
+          "modifier": -2
+        },
+        "Tablet": {
+          "description": "-2. If there is a ready Ghoul or Geist enemy at your location, it attacks you (if there is more than one, choose one).",
+          "modifier": -2
+        },
+        "Elder Thing": {
+          "description": "-3. If you fail, search the encounter deck and discard pile for a Ghoul or Geist enemy and draw it.",
+          "modifier": -3
+        }
+      },
+      "back": {
+        "Skull": {
+          "description": "-X. X is the number of locations away from the starting location you are.",
+          "modifier": -999
+        },
+        "Cultist": {
+          "description": "-3. If this token is revealed during an attack and this skill test is successful, this attack deals no damage.",
+          "modifier": -3
+        },
+        "Tablet": {
+          "description": "-3. If there is a Ghoul or Geist enemy at your location, it readies and attacks you (if there is more than one, choose one).",
+          "modifier": -3
+        },
+        "Elder Thing": {
+          "description": "-4. If you fail, search the encounter deck and discard pile for a Ghoul or Geist enemy and draw it.",
+          "modifier": -4
+        }
+      }
+    }
+  }
 }

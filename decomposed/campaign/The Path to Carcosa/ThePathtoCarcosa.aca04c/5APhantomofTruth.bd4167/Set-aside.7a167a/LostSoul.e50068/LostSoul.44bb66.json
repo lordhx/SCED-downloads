@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2323": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775107058378761608/B291D276D6FF71FDB43B69DE7507D56767BE975E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/flp5focx5lw29iplv689w/986328eec7ca4cd080a7d1f984bd562e.jpg?rlkey=2k9v241s6dy7p8vk56u14gwgj&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Madness. Pact.",
+  "Description": "Безумие. Сделка.",
   "DragSelectable": true,
   "GMNotes_path": "ThePathtoCarcosa.aca04c/5APhantomofTruth.bd4167/Set-aside.7a167a/LostSoul.e50068/LostSoul.44bb66.gmnotes",
   "GUID": "44bb66",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lost Soul",
+  "Nickname": "Пропащая душа",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
@@ -57,5 +57,13 @@
     "scaleZ": 1
   },
   "Value": 0,
-  "XmlUI": ""
+  "XmlUI": "",
+  "GMNotes": {
+    "id": "03227",
+    "type": "Treachery",
+    "class": "Neutral",
+    "traits": "Madness. Pact.",
+    "weakness": true,
+    "cycle": "Standalone"
+  }
 }
