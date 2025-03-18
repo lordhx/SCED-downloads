@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5538": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845865/01EC4762E4CE0FC7C164320F37DBCB2B3207BF55/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627845587/E5054E5FF9B27625A7543FC6CF8B79FD611A34AD/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/zanxvudr7exazwzvwm00w/4567222d273547d2b28497f586a73dda.jpg?rlkey=f9ekgylga4stne64j1m3g6ob4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/rdj4tqrd945302cs28ymc/5805b2ea93744ee58d95e8f366bb60df.jpg?rlkey=cibgl0jh0a02gwhp2t9i95qqo&dl=0",
       "NumHeight": 2,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Monster. Geist. Witch. Spectral. Elite.",
+  "Description": "Монстр. Ведьма. Привидение. Потусторонняя. Элитная.",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/4TheWagesofSin.1e45e8/Heretics.a9af08/Heretic.0a3e7f.gmnotes",
   "GUID": "0a3e7f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Heretic",
+  "Nickname": "Еретичка",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

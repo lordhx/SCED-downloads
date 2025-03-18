@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5891": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883254512/7C4EE4059CAD098D1CD3992DAE3C6D09A2D4C6A4/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883253785/512458DF4DC5B0F60A93FF0B1FBCB0373C165CBE/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/5ux35idnu2xqg3auhpep8/bc5822c20d3f45aea2943f86dce554cb.jpg?rlkey=6sxqozl4vktji9hsrcgg8jaf4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8gfnfaveexqekgidn7csn/4bda14a0f6d34c2b940d9b60121bc6fa.jpg?rlkey=5zxirlk5wt88xjxhxdy7gduki&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09683\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 5\n}",
   "GUID": "6c395d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Otherworldly Lambs",
+  "Nickname": "Неземные агнцы",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

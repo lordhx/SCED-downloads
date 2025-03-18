@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2335": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819522537/207CCD9C85ECB70A339C09170ABB42E139924AA0/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/780748790926468191/C3163A90948FC777DC7D95D05CB35D2DA32CBD9C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/vmfi8wvux4muetatapicr/7aec568e287e4b63ba542ccab0b2f9dd.jpg?rlkey=vhmtb1b830uch3jz0vsojb5ew&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/iqxeu466w9lhoq5nu3v5e/12d7473dd41d4d778a5bc72336778323.jpg?rlkey=8wpwkzb6gub4i2cj2hs25wfae&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Miskatonic.",
+  "Description": "Мискатоник.",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/2TheMiskatonicMuseum.87adbf/SecurityOffice.2eb7a1.gmnotes",
   "GUID": "2eb7a1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Security Office",
+  "Nickname": "Пост охраны",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

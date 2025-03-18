@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5882": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387191646/A3B395B219DBBBA73897963D084401A7A667CFCB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387261054/9B9B076447584B47DCE2CBB5E08C278283FC9DD7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/dqonm8h4llg86oiiosgkc/a37ae443ab4d4aea8f71f9de51df489f.jpg?rlkey=87l4hrylp3gis3m7e5guc6ho3&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/mv2tjfr3v5gq72snnn2ue/815a378ff4d4434db704311b5ba52d95.jpg?rlkey=63swiaf8ix399yl5oclx3envn&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "London.",
+  "Description": "Лондон.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File5-APrologueRiddlesandRain.bfdc5d/RainyLondonStreets.1c4d51.gmnotes",
   "GUID": "1c4d51",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Rainy London Streets",
+  "Nickname": "Дождливые улицы Лондона",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

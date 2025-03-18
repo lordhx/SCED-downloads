@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5894": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387921536/56AB6918516FF87D12E1DB3D2F0078D96DB85F2D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387920818/F2889E830C26E200A1B488461EDB92705A4778C1/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tg4f07ihko8pkvevzj1bd/259443a0073c4314a16cd1e8b885d20d.jpg?rlkey=mcwjdgzxip8pc76z0h2i45olm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/idrvrn2vo7rx2x38u1toe/cf30c1d590f045bfb21755d93952e16e.jpg?rlkey=szwrtgsly0sw7l87b9w5cma4a&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09614\",\n  \"type\": \"Act\"\n}",
   "GUID": "026d35",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "If It Bleeds...",
+  "Nickname": "Раз у него есть кровь…",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

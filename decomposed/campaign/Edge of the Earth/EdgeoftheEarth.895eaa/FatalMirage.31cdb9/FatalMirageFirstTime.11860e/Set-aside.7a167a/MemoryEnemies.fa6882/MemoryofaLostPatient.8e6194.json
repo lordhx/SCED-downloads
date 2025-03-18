@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4501": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462587833226/47751E4EF1844290E686A4F0CF6DD495FDB8C9C0/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462587832882/25EEB9AF70FB2E4DB33235A2367AFDFE810305BF/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/jgkwvnadtoiubzw0o24hy/a557c81ba44c453e8c5b5fccab0e58db.jpg?rlkey=sfao7d28tlyjlom5grho3stlp&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ayg28fahuf4lw3t4vlyxi/af0623a01e1c457d8a476f0c63d4309f.jpg?rlkey=82hobz3t2bogq1julmxyn1f57&dl=0",
       "NumHeight": 6,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "",
+  "Description": "Монстр. Фантом. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "EdgeoftheEarth.895eaa/FatalMirage.31cdb9/FatalMirageFirstTime.11860e/Set-aside.7a167a/MemoryEnemies.fa6882/MemoryofaLostPatient.8e6194.gmnotes",
   "GUID": "8e6194",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Memory of a Lost Patient",
+  "Nickname": "Память о потерянном пациенте",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

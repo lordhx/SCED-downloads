@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2664": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387188537/4CC41E1E791083C05B668EEFFB2AF7B6F62AA429/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/3lqdiuw7qllvm0xi1g2kk/84de11b9ae2342ca841a4a69213fa97d.jpg?rlkey=mvjcyvb2oxoegtswiodylkpw1&dl=0",
       "NumHeight": 3,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Coterie.",
+  "Description": "Гуманоид. Клика.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File28-IDancingMad.897309/File28-IDancingMadvII.bef538/EncounterDeck.aa5278/CoterieAgentA.847b59.gmnotes",
   "GUID": "847b59",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Coterie Agent (A)",
+  "Nickname": "Агент Клики (А)",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

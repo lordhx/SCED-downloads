@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5453": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1487830656537140036/475282CAB2A28C389847D264808446821544C850/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1487830656537128681/5324C76BCB0A5020FA41CC7CB4D38F44684E5BF7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/9dipb7529z5l1riy7qsjz/3995206f53c240dea8c71d5f9925d587.jpg?rlkey=s2tdpv5l83ausowegoxosbvca&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/z2fbswv0d8bkq9evd6m4x/d65298cdf18d4c9e92bba80587aafc49.jpg?rlkey=3l2yszeri9luf24ra6hx9iizb&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Mexico City. Present-Day.",
+  "Description": "Мехико. Современная.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheForgottenAge.479ff3/4ReturntoTheBoundaryBeyond.952af4/Deck.595817/TempleRuins.f37af1.gmnotes",
   "GUID": "f37af1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Temple Ruins",
+  "Nickname": "Руины храма",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

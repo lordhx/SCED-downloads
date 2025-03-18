@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5890": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914205210/BFD1648D2639FA820222EAEE4C62C7AE64487CB2/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883349482/B021ADF934609B915199D94A885BDDD6FD61FBDD/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8edxlx5d5wat79w0grfrf/db1f92988e2f4dfaaacf1d7adf3f581c.jpg?rlkey=v7m9u58hy2nvzp5ghn8i83mwt&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/h4dh63tjfwwwprj1gfp2p/7c685f62f48c4a16bca2426522f16405.jpg?rlkey=492g5x5icab1kvr15yvyu6yva&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09697\",\n  \"type\": \"Agenda\",\n  \"doomThreshold\": 7\n}",
   "GUID": "b68f36",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Running Red",
+  "Nickname": "Всё окрашивается красным",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

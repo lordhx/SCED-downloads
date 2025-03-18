@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2345": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025759245/C44D15D425A11A50C4EBC0956DAAD13BFD8282AA/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025757858/C291D7AC5E6D9A6B2497084DCCFC1623FFBA4FE4/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l152u8e60eunbil5f4009/4e090e20c26a4f5e94969d7e53456dc7.jpg?rlkey=6ehoj0ev0u7k10eh6v6ny1cjp&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qt5rwyxg86s0mlfly5rd5/16ee8a6d967546d6bcfda4cda924f811.jpg?rlkey=vblu8h6wms4y7z2irvthkky6v&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheDream-Eaters.a16a1a/4-BWeaveroftheCosmos.e14c76/ActDeck.f7f920/TheSchemesDemise.6215ed.gmnotes",
   "GUID": "6215ed",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Scheme's Demise",
+  "Nickname": "Развенчание замысла",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

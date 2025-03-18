@@ -14,8 +14,8 @@
   "CustomDeck": {
     "5553": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628025269/1E6B75B4423FB309C77FB0C89BFB1AB7B7B89DF2/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628025016/929EE506A1C9869C4899CCD757BD692FA7E46103/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/6iqi1uu7bl37ckfdqyz6j/6ea38a35145b46318555974786f148b2.jpg?rlkey=qyvahu3603m29patli19wovxs&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/vkxkygtw632x5ei3jt3ie/2353cad856a4458a9860402ccb45077c.jpg?rlkey=fgacmkw2lk0e5y83f4myv04i3&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Catacombs",
+  "Nickname": "Освещённый тоннель",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

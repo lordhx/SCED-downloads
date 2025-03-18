@@ -14,17 +14,17 @@
   "CustomDeck": {
     "5556": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/762723517659499792/63775A11C2A49441C268121108C8EBFCF512E2A9/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/762723517659500387/BFF1AFFD515364F0BFD336A6CE9970BE1DD04B13/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/v4lqzehe4gmu8r7lhf58p/71d42b8d65c74395b944b597cae1f812.jpg?rlkey=hf5f87zca658zhocvicnnbb82&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/x8gc0nj7xx2n095ptubtc/309560846cb3431b8444929df4d59590.jpg?rlkey=f5u8vf4a5ydqwv5seza88g2sn&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Return to Echoes of the Past",
+  "Description": "Возвращение.",
   "DragSelectable": true,
-  "GMNotes": "{\"id\":\"52028\"}",
+  "GMNotes": "{\n  \"id\": \"52028\"\n}",
   "GUID": "93a42f",
   "Grid": true,
   "GridProjection": false,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Setup",
+  "Nickname": "Отголоски прошлого. Возвращение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

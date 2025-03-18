@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4484": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/780749631103449151/FFAADF06C9BF9D1F4F3FE22D45CEBBB15D9B58CF/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/hewufu0oxiqjtpoacw7sn/98f29f0132ca467684500cffb166dce2.jpg?rlkey=kpt967frntli57sqbm0p7wq59&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Servitor.",
+  "Description": "Монстр. Прислужник.",
   "DragSelectable": true,
   "GMNotes_path": "TheDream-Eaters.a16a1a/3-ADarkSideoftheMoon.0fad66/EncounterDeck.3c1955/Moon-Beast.a67b30.gmnotes",
   "GUID": "a67b30",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Moon-Beast",
+  "Nickname": "Лунная тварь",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

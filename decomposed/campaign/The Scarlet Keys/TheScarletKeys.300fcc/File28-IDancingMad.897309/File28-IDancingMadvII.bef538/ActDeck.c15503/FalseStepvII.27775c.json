@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5890": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914206416/EB345887410BD0F31B166FF7508A01590F924DBA/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914205890/D2A864D064359DEC4DC7AF4BE1DF5E4A6CB824E6/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/v6o3klccp9yisf6i94hmt/19725acebc4d40ba8f49a0bbc5911c1c.jpg?rlkey=9od5oalaxgzjftjw3l139cn40&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8b33szih0n42uel1wlhou/73edb6e1029e4b658751f5e5d9e4f733.jpg?rlkey=5yqt5j09edeulzhwtxuavs95c&dl=0",
       "NumHeight": 3,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09597\",\n  \"type\": \"Act\"\n}",
   "GUID": "27775c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "False Step (v. II)",
+  "Nickname": "Ложный шаг (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

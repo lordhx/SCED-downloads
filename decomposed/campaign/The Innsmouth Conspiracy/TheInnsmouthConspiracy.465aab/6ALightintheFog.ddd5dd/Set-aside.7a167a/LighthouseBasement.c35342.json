@@ -14,8 +14,8 @@
   "CustomDeck": {
     "4497": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191219099068/176EF2699BEA75449FF7543AC8D170D4058E309A/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1747933191219098785/6AB92E1409752CAC1D0CD3E592BD15FAB1C68863/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/my7mqswv6sphs67o0x140/96c5af2ac27e4ae5a8f949d4205a7fe3.jpg?rlkey=y38pjxm1nmmk5updcb7m5x3f7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/jpml7wdn39c53m78ny234/781b649faa9b4106903bc920874608b6.jpg?rlkey=0nv6f5h73i77xg3elg60khkhp&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lighthouse Basement",
+  "Nickname": "Sunken Grotto",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

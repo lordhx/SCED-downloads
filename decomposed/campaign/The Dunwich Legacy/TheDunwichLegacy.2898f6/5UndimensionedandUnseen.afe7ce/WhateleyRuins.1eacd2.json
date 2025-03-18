@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5555": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1670239766691384968/9365E08E3C0E1B448121EDF03508D86FC36DCE8C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241296074238/FB73285A9ED0D784210E50C6EA17EBC25648D800/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/d9mjf1q7d20i9gxdr3wr5/65a892ccd3e3454ba342da45e7d23053.jpg?rlkey=9hns3s6z818nznrq6a3ngdlgm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/whviyy9o3vbxx0huovjxr/06860aad9d314ee3a74f0689bd894835.jpg?rlkey=tnig73ye35oo1hi3surgq6bl6&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Dunwich.",
+  "Description": "Данвич.",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/5UndimensionedandUnseen.afe7ce/WhateleyRuins.1eacd2.gmnotes",
   "GUID": "1eacd2",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Whateley Ruins",
+  "Nickname": "Руины фермы Уэйтли",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

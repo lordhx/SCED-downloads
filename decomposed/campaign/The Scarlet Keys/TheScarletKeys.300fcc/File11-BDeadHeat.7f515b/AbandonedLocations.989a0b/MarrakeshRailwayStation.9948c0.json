@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5883": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387458474/047266E9298C296F9A05DF7F5D63448A43DE1A0C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914207505/FA7473632ADB17221600DF0C95CD2E0A8CAC4F07/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/yaqxuafyscwvsbow086vf/d7ede11588f548699c19333be018a81c.jpg?rlkey=sb7iuo7e822914e0yvht7adrs&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/wrp9x9zyihb5qf4lsr017/6efd23b76c414a319dc501ab31d54f3b.jpg?rlkey=v1365zoh1ow1ee0o37n8g9t3c&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Marrakesh. Abandoned.",
+  "Description": "Марракеш. Покинутая.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File11-BDeadHeat.7f515b/AbandonedLocations.989a0b/MarrakeshRailwayStation.9948c0.gmnotes",
   "GUID": "9948c0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Marrakesh Railway Station",
+  "Nickname": "Вокзал Марракеша",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

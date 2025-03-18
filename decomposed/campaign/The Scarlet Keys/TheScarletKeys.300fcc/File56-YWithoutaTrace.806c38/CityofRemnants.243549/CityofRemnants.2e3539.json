@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5889": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883252130/3B05787E96131370404A77E99CF25E50F325AB98/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1988933244552634962/569EB4E4487A016FB5F0729FD2D9CE1372BEA25B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/kj00ctc29zuzn0a9jmaex/819f1ce953684ed6908bd445f7cf7c09.jpg?rlkey=wpydotfh0paov8sod1xv7yeeq&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/3rpbiyhgr9dnggsj96ase/df389af884ab4e8e9cd6f37d25dba110.jpg?rlkey=uik1dwwnpu7ddpu3rh6cc3dn3&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Otherworld.",
+  "Description": "Иной мир.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File56-YWithoutaTrace.806c38/CityofRemnants.243549/CityofRemnants.2e3539.gmnotes",
   "GUID": "2e3539",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "City of Remnants",
+  "Nickname": "Чуждые рубежи",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

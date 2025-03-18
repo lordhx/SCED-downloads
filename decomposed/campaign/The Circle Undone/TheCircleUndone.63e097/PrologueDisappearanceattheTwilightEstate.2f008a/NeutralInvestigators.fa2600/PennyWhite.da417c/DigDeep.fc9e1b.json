@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3688": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860672864134253/9A6E0399D3624C5FFBD6CAFE5D4B988436CC65AC/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/7n3htu1r5pzcezm3ojo3x/13f79db6953e4f648ecbd718dc9c1b3a.jpg?rlkey=bakyiud2eoriieoqx7m5p478c&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Талант.",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/PrologueDisappearanceattheTwilightEstate.2f008a/NeutralInvestigators.fa2600/PennyWhite.da417c/DigDeep.fc9e1b.gmnotes",
   "GUID": "fc9e1b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dig Deep",
+  "Nickname": "Упорство",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

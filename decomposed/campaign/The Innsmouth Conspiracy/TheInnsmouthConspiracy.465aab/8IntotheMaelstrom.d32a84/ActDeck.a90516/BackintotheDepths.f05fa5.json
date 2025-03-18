@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4409": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697277388086987553/817496FCFFBF0B8ADCE3B09A9671D6F549BE5881/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697277388086987329/F381129808CB4D0ECD8508777784ECD8B7C1691F/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/5cy8m1tueu09pdmr96zbt/cdfd78d70d7a4a539f319b74ffd4d35a.jpg?rlkey=htz2j9hn4urgme4qfh6kupmi4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/8datnzxrrcaae9fapbnfp/651922a14ea24100b2e1aec7a6ff8fcc.jpg?rlkey=gpknor64n9bvv0ilxamtc4v80&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/ActDeck.a90516/BackintotheDepths.f05fa5.gmnotes",
   "GUID": "f05fa5",

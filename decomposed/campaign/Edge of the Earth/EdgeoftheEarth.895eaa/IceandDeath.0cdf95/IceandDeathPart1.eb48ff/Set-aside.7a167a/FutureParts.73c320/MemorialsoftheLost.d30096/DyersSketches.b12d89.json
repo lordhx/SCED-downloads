@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4500": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583875023/F146A60AEF1FBC9B5FC96189BC1894C468C1E811/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/uj7e9bmuoih08dvtlzk29/442bb890009b47959980ce88895bd55c.jpg?rlkey=9bj1sb2yrol8zr5n07li51l4g&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Интуиция.",
   "DragSelectable": true,
   "GMNotes_path": "EdgeoftheEarth.895eaa/IceandDeath.0cdf95/IceandDeathPart1.eb48ff/Set-aside.7a167a/FutureParts.73c320/MemorialsoftheLost.d30096/DyersSketches.b12d89.gmnotes",
   "GUID": "b12d89",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dyer's Sketches",
+  "Nickname": "Зарисовки Дайера",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

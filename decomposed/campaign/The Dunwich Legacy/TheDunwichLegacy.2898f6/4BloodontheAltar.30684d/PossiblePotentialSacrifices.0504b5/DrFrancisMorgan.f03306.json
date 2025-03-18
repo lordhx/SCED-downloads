@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2329": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241295993974/70871F727ABBAB3DB22003051B5E1FBF8999AEEB/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/vc3hed6igm320t1g5fw6c/02b76c52ad5e4cebb54dcece01edfaa6.jpg?rlkey=ndlyt9iw6f5i7p0b8od6duoly&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Professor of Archaeology",
+  "Description": "Союзник. Мискатоник.",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/4BloodontheAltar.30684d/PossiblePotentialSacrifices.0504b5/DrFrancisMorgan.f03306.gmnotes",
   "GUID": "f03306",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dr. Francis Morgan",
+  "Nickname": "Доктор Фрэнсис Морган",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

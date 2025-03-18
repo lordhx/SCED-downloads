@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2757": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/u81joaaz4u7q9rrth95iy/fc388dd2fd4f4c08bd7cffea6ffc2e39.jpg?rlkey=ksf96bc2mbsh1i9wnhlt8qdwq&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Spell.",
+  "Description": "Заклинание.",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/4TheWagesofSin.1e45e8/Set-aside.7a167a/SpectralWeb.a1811b/SpectralWeb.8fe838.gmnotes",
   "GUID": "8fe838",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Spectral Web",
+  "Nickname": "Призрачная сеть",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

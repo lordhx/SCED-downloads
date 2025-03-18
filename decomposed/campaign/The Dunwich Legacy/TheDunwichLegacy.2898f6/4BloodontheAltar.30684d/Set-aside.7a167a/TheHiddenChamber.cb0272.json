@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2335": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/780748790926468191/C3163A90948FC777DC7D95D05CB35D2DA32CBD9C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/iqxeu466w9lhoq5nu3v5e/12d7473dd41d4d778a5bc72336778323.jpg?rlkey=8wpwkzb6gub4i2cj2hs25wfae&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Prison of the Beast",
+  "Description": "Данвич.",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/4BloodontheAltar.30684d/Set-aside.7a167a/TheHiddenChamber.cb0272.gmnotes",
   "GUID": "cb0272",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Hidden Chamber",
+  "Nickname": "Тайная комната",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

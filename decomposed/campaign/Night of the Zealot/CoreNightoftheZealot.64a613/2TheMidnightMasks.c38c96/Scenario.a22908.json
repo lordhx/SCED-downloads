@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2321": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377428854/F01972D15C2B4CFCB8CA72006B7E00D243683AFA/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/775106514377429266/856DF4A8D87D7B6CB71572D20908D35F4182AC45/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/yroxjbfr43cmb79qf85xe/126cfd1c64db46b2ab4b256bb12f3d85.jpg?rlkey=3d4vy6tkon9givlw1apwkph3t&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/wv2g9tjku8f5gg2ucvizw/596e165043ae4ac9a317cbcee2da7b78.jpg?rlkey=bc83yr9iyti42z5eyddvc7y5l&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "The Midnight Masks",
+  "Description": "Полуночные маски",
   "DragSelectable": true,
   "GMNotes_path": "CoreNightoftheZealot.64a613/2TheMidnightMasks.c38c96/Scenario.a22908.gmnotes",
   "GUID": "a22908",

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2359": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777501236/D145C8B748FB42258EB442B9DF36797851CEECC3/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/g03cg61mtmgugmybna71h/8a512bca97194bc0ac5d66893c69d818.jpg?rlkey=yj4twj28ds2vppgdjcksi3j2y&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheForgottenAge.479ff3/5ReturntoHeartoftheEldersPart1.5abc8f/EncounterDeck.efdae8/Ants.97d465.gmnotes",
   "GUID": "97d465",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Ants!",
+  "Nickname": "Муравьи!",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

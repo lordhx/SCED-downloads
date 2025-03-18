@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5387": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/780749631103449151/FFAADF06C9BF9D1F4F3FE22D45CEBBB15D9B58CF/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/hewufu0oxiqjtpoacw7sn/98f29f0132ca467684500cffb166dce2.jpg?rlkey=kpt967frntli57sqbm0p7wq59&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Проклятие.",
   "DragSelectable": true,
   "GMNotes_path": "TheDream-Eaters.a16a1a/3-ADarkSideoftheMoon.0fad66/Set-aside.7a167a/FalseAwakening.b43b00.gmnotes",
   "GUID": "b43b00",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "False Awakening",
+  "Nickname": "Ложное пробуждение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

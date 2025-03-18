@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5888": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387720015/F335750A9FA1E4FEEC82F0B6C362DFC2FB0C3767/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/v3n9jtc73bpw34hu5vy3k/9531ec54c51245b8ac17a0a9b98a16a6.jpg?rlkey=f33r8mm98wei86xm1e97swf56&dl=0",
       "NumHeight": 3,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Open to Negotiation",
+  "Description": "Гуманоид. Клика. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/GlobalStatusReportEncounterSets.ad0e70/RedCoterie.5ff984/Thorne.825b21.gmnotes",
   "GUID": "825b21",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Thorne",
+  "Nickname": "Торн",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

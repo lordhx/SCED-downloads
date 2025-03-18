@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2665": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1684870715278667806/8019A24BC22954C58F5122DA71F51B098E7ADAEE/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1684870715278667604/B140A63A090D76716D909151FC53159E56856CC7/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/cs1h1pj319v6nggt56frd/b41cd4c8a0cf45bba7ffa678051bfa78.jpg?rlkey=aco9faey4frvn1nh0mjjt4f4z&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ktn1prbm806iuhij2ep4j/b505e695c20044d98ae5ad8115799d79.jpg?rlkey=nwbmw977evlpkoitv3989kgvw&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/AgendaDeck.d3b120/RelentlessTide.f743bc.gmnotes",
   "GUID": "f743bc",

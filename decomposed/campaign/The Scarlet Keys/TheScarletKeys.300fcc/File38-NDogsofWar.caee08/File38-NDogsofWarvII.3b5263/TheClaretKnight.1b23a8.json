@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5896": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328388051798/76225F57795BEA55DAAFC5BDD6FE20B03BE817E1/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328388050817/3846C805B13DCC2540225520E2AA269073A4DA7A/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/h6oh91bjqg9az8nagjp1m/968c3511728d4d4a819187efcee9fb40.jpg?rlkey=n1gza4kcsyifrr192hyu8l99q&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/aw1cadtd451te0p9cl4t9/1ef984c35b084fa2bfb7eff1c2f9d377.jpg?rlkey=ib6g8xlofp214lcv7s9w4yef6&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Coterie Kingpin",
+  "Description": "Гуманоид. Клика. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File38-NDogsofWar.caee08/File38-NDogsofWarvII.3b5263/TheClaretKnight.1b23a8.gmnotes",
   "GUID": "1b23a8",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Claret Knight",
+  "Nickname": "Бордовый рыцарь",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5929": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093887519136/00296232901816AEE1F0252D2942E44EFB6D8F31/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093887518613/C88F386255EDFED0DBCEFCA241659E84A9AD9B67/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hegaaftwaiy1r60wczj3l/0caa8027e53340999e2381b192745401.jpg?rlkey=8yyh64kw9xf1vmzm1ym6oksiv&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/um2pr4459qhbf3s0hodes/5400479850854c8db52820a55be74e3f.jpg?rlkey=aaney8dui3kqbyeewjqapmhwx&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Lair.",
+  "Description": "Обитель.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File59-ZCongressoftheKeys.c9578f/File59-ZCongressoftheKeysvI.219e81/ScarletHalls.9fff85.gmnotes",
   "GUID": "9fff85",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Scarlet Halls",
+  "Nickname": "Алые залы",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

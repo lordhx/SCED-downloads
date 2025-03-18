@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5895": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387921536/56AB6918516FF87D12E1DB3D2F0078D96DB85F2D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387999210/3BD2DDD7E8634CA92C9DDB9721D88B7AAEC982E1/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tg4f07ihko8pkvevzj1bd/259443a0073c4314a16cd1e8b885d20d.jpg?rlkey=mcwjdgzxip8pc76z0h2i45olm&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ea9jpg4ktexu662plr6bg/97c2a6c6fc77498ebf9da6650c6f8f0c.jpg?rlkey=7bqjn3ahvbobcl7yyu1u66zmt&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Wilderness.",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File33-KOnThinIce.d7a48c/Set-aside.7a167a/OuterWildernesses.d33f80/OuterWilderness.ea46ee.gmnotes",
   "GUID": "ea46ee",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Outer Wilderness",
+  "Nickname": "Заброшенная золотая шахта",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

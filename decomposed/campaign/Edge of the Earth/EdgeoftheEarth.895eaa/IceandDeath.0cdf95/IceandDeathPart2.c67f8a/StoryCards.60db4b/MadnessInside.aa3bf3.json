@@ -14,8 +14,8 @@
   "CustomDeck": {
     "4496": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583844492/A3CE36420BC4AE8D863014F3F8B84C1A6047EBEB/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/26x8u081w7en6dt1io6jv/6b44a0e76d5749bd9d0cdac250f866a8.jpg?rlkey=kr4smn2fw342xszn9l91ma6tb&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Madness Inside",
+  "Nickname": "Внутреннее безумие",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

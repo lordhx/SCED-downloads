@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2347": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025781883/DDC7B603B5E571A152D76364CCF3155BB7BC8C6F/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025781079/EBC4A272423668544053A4ACD161A993E038255D/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/tk7mzq12afw4jj7letdze/9a9ec4ca05af40e785774df3429242a9.jpg?rlkey=re6u3obhwlu8df5zb1psurd13&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/9fejz4ak31yio3afj9h1v/2ca5a0ff06394d68a9acd4d367e2add9.jpg?rlkey=sjitkhllwv6ccpnf6kjvbvla6&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Otherworld. Extradimensional.",
+  "Description": "Иной мир. Сверхпространственная.",
   "DragSelectable": true,
   "GMNotes_path": "TheDream-Eaters.a16a1a/4-BWeaveroftheCosmos.e14c76/TheGreatWeb.387d55/TheGreatWeb.9aed9c.gmnotes",
   "GUID": "9aed9c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Great Web",
+  "Nickname": "Великая паутина",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

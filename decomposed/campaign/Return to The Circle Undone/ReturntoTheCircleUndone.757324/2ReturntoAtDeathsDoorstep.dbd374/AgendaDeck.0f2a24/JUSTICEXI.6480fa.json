@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2320": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526797029/1F8A6C29028AED32DB44E4CF22E3120C417F413D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526785922/F34A644AC467C751B6D7B8AF398B8FDB07CCF6A0/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/58gtcll9tzckxa2z8gr61/a6ad40294938475ca19427cf8e11c110.jpg?rlkey=3ux0bs8u8260e5q5mfxk2rd6t&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/9qqiwvwel34e17bcxtsdp/085c28bcc6f343c2a145b3db79be1558.jpg?rlkey=th56at1o2ub3rn1o8vs50yh5h&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheCircleUndone.757324/2ReturntoAtDeathsDoorstep.dbd374/AgendaDeck.0f2a24/JUSTICEXI.6480fa.gmnotes",
   "GUID": "6480fa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "JUSTICE · XI",
+  "Nickname": "Правосудие · XI",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

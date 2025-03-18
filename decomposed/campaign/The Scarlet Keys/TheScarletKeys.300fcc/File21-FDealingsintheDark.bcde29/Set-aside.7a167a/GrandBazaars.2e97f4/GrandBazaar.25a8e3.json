@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5880": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387354245/5782347BBAAE7DBE252EE3FE0CE40F3A8D8E8398/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387353300/77D33DFFCAD6C1DA6E93FDDACEDF5A113498AF2F/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/ngjkptistgijx037kud9t/4c9692041535453da0ef039b94fb3580.jpg?rlkey=y786rstl5c6u6kp33pog6ow2g&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/cdua3xzhscrx4ttcnlcnk/9c0b63cab3a14908b32a91d09b142682.jpg?rlkey=38au4tfgj5zibl2immj055lfj&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Istanbul. Bazaar.",
+  "Description": "Стамбул. Базар.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File21-FDealingsintheDark.bcde29/Set-aside.7a167a/GrandBazaars.2e97f4/GrandBazaar.25a8e3.gmnotes",
   "GUID": "25a8e3",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Grand Bazaar",
+  "Nickname": "Гранд-базар",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

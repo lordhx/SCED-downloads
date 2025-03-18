@@ -14,8 +14,8 @@
   "CustomDeck": {
     "2327": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1655600400212407689/3C65021AB4F218C107874C159AD616CF45FF3B6A/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1655600400212407442/8BC698E9B117F8B024BBB68E3323D49D748841EA/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/yesptyy303yqht83zdqfq/99136fc819634057a31f91d1623ee847.jpg?rlkey=easgyx5412ak558k8csdlw8tc&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pa04ye2lu7sitl9o54vow/3276730b9c814ab49cb555c549628f95.jpg?rlkey=rmnijm168jjc1dzwty4f0o5jp&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Devil Reef",
+  "Nickname": "Hidden Cove",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2348": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777222245/D92D00D6568B174B89DBB20F9F8841DDC3DD57C7/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1467561769777221273/C6054E6FA05E37A520843731A4CC441BD188F65C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/bi3euglt8jf6a30nlda84/f1417c3fb41745a9b60042fc1612d2dc.jpg?rlkey=zm4bcm0e5h1oekshe5svstr64&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/u2drwly9mlsovr12fg0y3/5abc131c61754b989ee64f2cfbfbfc89.jpg?rlkey=h7srk51sk1qr2hgy4a8bl2fi4&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheForgottenAge.0bcf19/8ShatteredAeons.737c5d/Agendadeck.cae847/ThreadsofTime.d34fcd.gmnotes",
   "GUID": "d34fcd",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Threads of Time",
+  "Nickname": "Нити времени",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

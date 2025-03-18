@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2666": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387191646/A3B395B219DBBBA73897963D084401A7A667CFCB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387190289/86CD512092A20B40F9E1F4AABAF8B66C8A6166D9/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/dqonm8h4llg86oiiosgkc/a37ae443ab4d4aea8f71f9de51df489f.jpg?rlkey=87l4hrylp3gis3m7e5guc6ho3&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/srp22r5qrszvfzyviehs5/6d508c2f6bab45ef85c876d3a863eab1.jpg?rlkey=s5kawk8y8mdwrm4zracsxd6es&dl=0",
       "NumHeight": 4,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09506\",\n  \"type\": \"Act\"\n}",
   "GUID": "7bfb7c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Clues and Capers",
+  "Nickname": "Намёки и тайны",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

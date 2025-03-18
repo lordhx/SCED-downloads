@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5888": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387696186/7B0C58300B54A2A584F5B92EE8887B7A1E8145FD/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387695838/A0E52C47DA84223410CE29E7B2BA34DA6073076E/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/s69xtgymgn940gr5bs3w9/d0c0067e2d234f73aaf9b2b2c45ad41b.jpg?rlkey=g6lyl5gah11g64hc8o10mvysd&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pixv5kgi6tnzwcuphv0wx/7c0ace4a6db04af49a1f9e3549d813db.jpg?rlkey=qv4fonhxu04leszzv8rpinpf0&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Reflects Only Violence",
+  "Description": "Устойчивый.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09768\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\"\n}",
   "GUID": "57151a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Mirroring Blade",
+  "Nickname": "Зеркальный клинок",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4497": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706766472372/8A8DF9DAC7D2EF6795E5EF8983DED8B4DB6FAF56/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1697276706766471841/DDE7120C72F6685DFFC382BC4F125124BEEA8207/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1116qx1wgaslkf98jhp66/680d5314833b450b820eda00f1785e23.jpg?rlkey=8zk9f0dghp6h0mxd4dxfuupl6&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/wowr9nsfbc3z428at5kfj/68e7ec6f526f4c1ab1f04f28f8c6b817.jpg?rlkey=xecsgqf9qr0wdwcqoos2jt67e&dl=0",
       "NumHeight": 6,
       "NumWidth": 7,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Spectral.",
+  "Description": "Потусторонняя.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheCircleUndone.757324/PrologueReturntoDisappearanceattheTwilightEstate.1b8c0f/WineCellar.9d0410.gmnotes",
   "GUID": "9d0410",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Wine Cellar",
+  "Nickname": "Винный погреб",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2333": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/782999241296027643/326876D4B46DF777AA1293989DEEE6A810ED027B/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/782999385819527677/3AD8DFFFBFF54DB098AD3E00BB7E75DA0590FE8B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hhyvyh49vgpybl79i2ohi/4d2a25c0a53e41cf90719dc8404be106.jpg?rlkey=w4exfngygluok7a0kj7d5ng40&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ox7rly84ihd56wgenbm6y/2e0c5e817dc94029baa182714041e265.jpg?rlkey=ti3zz58ae4icynbur0ugayvpo&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheDunwichLegacy.ce9130/7LostinTimeandSpace.1fca6b/AgendaDeck.a01672/BreakingThroughvII.ed6504.gmnotes",
   "GUID": "ed6504",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Breaking Through (v. II)",
+  "Nickname": "Прорываясь вперёд (вариант II)",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

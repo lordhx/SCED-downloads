@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5886": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387688196/FE8468C5066E61AB3C228A48639F47D0226DFCF6/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/hoyeqhzg831eimqvmeeri/2760cf18cbf54b3ea86503c27847efe1.jpg?rlkey=urc3lmvw439zuiidj7h4708zu&dl=0",
       "NumHeight": 2,
       "NumWidth": 5,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Безумие. Парадокс.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09767\",\n  \"type\": \"Treachery\",\n  \"traits\": \"Madness. Paradox.\"\n}",
   "GUID": "3c3dfa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Paradimensional Understanding",
+  "Nickname": "Межпространственное осознание",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

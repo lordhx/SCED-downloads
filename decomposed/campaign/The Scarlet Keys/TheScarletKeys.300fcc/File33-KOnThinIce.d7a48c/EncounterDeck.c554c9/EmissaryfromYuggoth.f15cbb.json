@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5877": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387340145/405FDA994D65D67DEAE0E41DAE90BA47394164CD/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/j1z31ikgzsv6ioeyfojue/74c7c20f39e14c0897422ce8c8d89d44.jpg?rlkey=siym0fyx6ppvemia0i7a45xzn&dl=0",
       "NumHeight": 3,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Yuggoth.",
+  "Description": "Монстр. Юггот.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File33-KOnThinIce.d7a48c/EncounterDeck.c554c9/EmissaryfromYuggoth.f15cbb.gmnotes",
   "GUID": "f15cbb",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Emissary from Yuggoth",
+  "Nickname": "Эмиссар с Юггота",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

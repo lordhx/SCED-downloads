@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4498": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1807607979163977116/B4A1405FC47AD67007EA09C27B703F4F3848C8A0/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1807607979163976478/FC378E356EF89EC9AB130A70B63D7129EA3FA10B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1f39b3se1gd9nza66gsdc/f105364d36dd43a7a563f7b53d97c8dc.jpg?rlkey=tbmw8lkfm7ufhf67ov2eib7iq&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ego36xzhu6pr5kv0aqry4/90c7dc295cd94ef0b7123dd0a26a6bc7.jpg?rlkey=3ehx5v9k1kad5y79asgyr6bnn&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "High Temple of Mother Hydra",
+  "Description": "Y'ha-nthlei. Lair.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/Set-aside.7a167a/LairofHydra.ee2f20.gmnotes",
   "GUID": "ee2f20",

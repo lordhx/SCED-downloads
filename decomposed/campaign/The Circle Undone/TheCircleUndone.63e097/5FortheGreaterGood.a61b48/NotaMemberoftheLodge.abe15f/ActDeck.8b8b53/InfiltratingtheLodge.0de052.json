@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3123": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/786356000879758511/CF3D368183597044860CA0BE0FE6A36024904675/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/786356000879757640/1B977B33065106178624452E8B37BC59D06CEC19/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/lf299q9qfsbltxn220cxl/8bb83667478d426d9e3a1c2de3659ad1.jpg?rlkey=8loudfcjyz3qcia2vdrffgi1z&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/pajsguhjqywtups9g11z5/8ada7979732a482d8f82f2977bf1aae6.jpg?rlkey=fqomawleulaz3nbaq5xdmrh0j&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/5FortheGreaterGood.a61b48/NotaMemberoftheLodge.abe15f/ActDeck.8b8b53/InfiltratingtheLodge.0de052.gmnotes",
   "GUID": "0de052",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Infiltrating the Lodge",
+  "Nickname": "Проникнуть в Ложу",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

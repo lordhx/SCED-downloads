@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2318": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524526809828/AB799C8FFD9024655A9F179CCFF1EE30DE0D3C75/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/u81joaaz4u7q9rrth95iy/fc388dd2fd4f4c08bd7cffea6ffc2e39.jpg?rlkey=ksf96bc2mbsh1i9wnhlt8qdwq&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheCircleUndone.757324/6ReturntoUnionandDisillusion.e31fb3/Set-aside.7a167a/SilverTwilightLodge.747a12/MysteriesoftheLodge.7870f6.gmnotes",
   "GUID": "7870f6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Mysteries of the Lodge",
+  "Nickname": "Секреты Ложи",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

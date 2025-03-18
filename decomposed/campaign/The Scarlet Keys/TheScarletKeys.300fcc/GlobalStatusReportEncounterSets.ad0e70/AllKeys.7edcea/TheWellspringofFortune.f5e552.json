@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2664": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1874087305860121579/39578AC78E34DAA169AB4DE4246BB1E002528B8C/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474902965618/1DA915D6106D951592457701CBA262B73CBEDE6B/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/drzztg6ndbbnl5klcxccs/5c7679a2a48a4007be8733727fb95a8c.jpg?rlkey=3gaf08341mh4id9r6wgoh7u8i&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qiw52hwql5ciefihlyvsa/d2f52866c1a54aa9808bc20d8d0da2e8.jpg?rlkey=bciutnanrvjkrxq7za25mxia9&dl=0",
       "NumHeight": 5,
       "NumWidth": 7,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Symbol of Providence",
+  "Description": "Устойчивый.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"88045\",\n  \"type\": \"Asset\",\n  \"class\": \"Neutral\"\n}",
   "GUID": "f5e552",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Wellspring of Fortune",
+  "Nickname": "Ключ Фортуны",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

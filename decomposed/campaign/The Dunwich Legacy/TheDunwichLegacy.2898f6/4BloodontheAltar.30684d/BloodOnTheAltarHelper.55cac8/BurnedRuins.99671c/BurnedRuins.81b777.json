@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5556": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628072953/00BAEF41B5B5A54B030C1DAB6AF323DA3AAC28E4/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628072586/E037DE652C72453C6E8E2D33FC5D1A4E26AED479/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/96o9wngg6v9bt839xqh5i/b32eef4bd237452e85b86a63e30e9908.jpg?rlkey=wj0cbulkzdz734pl0b36vas09&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/q4ojzhxp3z5vx9xxt1r7j/49dc3d95004a477ba33078676285adf2.jpg?rlkey=incku7tp67jwa3mb56nq8g8tk&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Dunwich.",
+  "Description": "Данвич.",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/4BloodontheAltar.30684d/BloodOnTheAltarHelper.55cac8/BurnedRuins.99671c/BurnedRuins.81b777.gmnotes",
   "GUID": "81b777",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "Burned Ruins",
+  "Nickname": "Пожарище",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5888": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883144543/321B70E2509F1852398770FBCEDC5FBAF016DA3D/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883143515/90ED945CAC67945F969BB710BA6E58FF780F0CA3/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/eh0aws19075uw162hjybv/85e599e1ab8042c49b9a2c5bf188db9b.jpg?rlkey=0s0b7y0qmji0n2xc1q0qz9i0g&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/p7h9x11bvjb2xbs1nkql3/f8e7f3883cb44dd29c8db93f7063429e.jpg?rlkey=l0rwtc37p8qvdq7lu39vadhas&dl=0",
       "NumHeight": 4,
       "NumWidth": 6,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 3",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09666\",\n  \"type\": \"Act\"\n}",
   "GUID": "e9b194",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Harvester of Woe",
+  "Nickname": "Пожинающая горе",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

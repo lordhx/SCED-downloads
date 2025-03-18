@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5886": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2021605474914206909/C512EAC507739BE15BA2B07B062E8A1549477260/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387564579/99D66664F38D4F2371FDF8999E7D52DA814EFEBF/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/53ey9srksqm0ouj0az5vj/1e7d8efa5a9244c78ee8e2a9f7bb8350.jpg?rlkey=y7depud7k32m8xsl1g34yy0p4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/4es0g5bqdyvypv89qeaoh/d282d4bcd6f24556b6c10016cbf3e2c3.jpg?rlkey=59i8msjbrwd7e12s5k57uikj6&dl=0",
       "NumHeight": 4,
       "NumWidth": 4,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Buenos Aires.",
+  "Description": "Буэнос-Айрес.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File16-DSanguineShadows.fffd49/TheCabildo.65ef61.gmnotes",
   "GUID": "65ef61",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Cabildo",
+  "Nickname": "Кабильдо",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "4499": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583868269/7A2E0B803A0D78F322F040A0516EA3C1927789F7/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1858293462583858127/5ACF8E695E9ADD096BC1166EA3DEA60F282DCE85/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8v32n9kio0p2chhyswedk/b29480d96bd2441794b81bb2768f4762.jpg?rlkey=3t4e4ie8ynrv9cd9z2k8m9bpy&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/a2z4apdo0lpo2tcvohnpo/c4c7f76dce984f4294aac35444015b5a.jpg?rlkey=7i76fuvhgc9viwvw41l12de1m&dl=0",
       "NumHeight": 3,
       "NumWidth": 9,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Agenda 5",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "EdgeoftheEarth.895eaa/IceandDeath.0cdf95/IceandDeathPart1.eb48ff/Set-aside.7a167a/FutureParts.73c320/LostintheNight.c240fc/TheChillofNight.64cd92.gmnotes",
   "GUID": "64cd92",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Chill of Night",
+  "Nickname": "Ночной холод",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

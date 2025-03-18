@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5885": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1941643328387563160/276357A9E5877BDC886A7D92DE4D1DEBC4428BB3/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/r92jjr7vgx5g8zacv2xo2/80c28a89c0ac4eafae2929f4efd63d8f.jpg?rlkey=dq2btctbtibn5kor0c3ziwpt4&dl=0",
       "NumHeight": 3,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Nightgaunt.",
+  "Description": "Монстр. Ночной призрак.",
   "DragSelectable": true,
   "GMNotes": "{\n  \"id\": \"09558\",\n  \"type\": \"Enemy\",\n  \"traits\": \"Monster. Nightgaunt.\"\n}",
   "GUID": "c0bf54",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Bound Nightgaunt",
+  "Nickname": "Подневольный ночной призрак",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

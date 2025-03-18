@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2346": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1016065725025770470/7C77423FFA657FB6B5937C80D6813C24E2D0E88C/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/zi8geigonqj32fhvsdbav/21de7347c81f4f19be1e31d8d61ee7fa.jpg?rlkey=3hv84fibb5sy64fp570ybgj0d&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "The Faceless Whisperer",
+  "Description": "Древний. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheDream-Eaters.a16a1a/4-AWheretheGodsDwell.185096/Set-aside.7a167a/Nyarlathoteps.957ea3/Nyarlathotep.8be848.gmnotes",
   "GUID": "8be848",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Nyarlathotep",
+  "Nickname": "Ньярлатхотеп",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

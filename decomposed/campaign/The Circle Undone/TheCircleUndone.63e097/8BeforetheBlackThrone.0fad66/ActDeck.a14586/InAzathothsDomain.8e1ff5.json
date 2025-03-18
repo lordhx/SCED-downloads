@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5548": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981627911371/6CC6EDE32E6475F6462029E947740C2C508C4438/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/62586906400906041/03B76F8BE2A1DAD9178BD755EEE5EE7E151771EE/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/1plm0lwj02o8rz05jra8e/c80ad8cfced34bc48853428ac8683344.jpg?rlkey=jsvgbufqva0x2utazt2macvsr&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/qv9npulx4hq5dpu8zzi9m/00329b03453b487c9300b4254667a0c2.jpg?rlkey=dj4x125qircrqwe13nmulem2o&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Act 2",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/8BeforetheBlackThrone.0fad66/ActDeck.a14586/InAzathothsDomain.8e1ff5.gmnotes",
   "GUID": "8e1ff5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "In Azathoth's Domain",
+  "Nickname": "Во владениях Азатота",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,

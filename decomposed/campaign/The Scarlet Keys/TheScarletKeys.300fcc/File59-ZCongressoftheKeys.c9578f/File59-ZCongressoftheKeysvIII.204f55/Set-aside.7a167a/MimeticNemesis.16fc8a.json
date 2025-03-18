@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5889": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940351785/F64D8EFB75A9E15446D24343DA0A6EEF5B3E43DB/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093883352408/B53F10B3FD157FE1C2EC62F495EFCCA52C2BABE6/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/8wwkdtp83s8b1qs7a992u/c9834325673b4ac5b756434b9e94bce6.jpg?rlkey=ej7b5c7am0a6arusrt6zd62n7&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/alt7f5wbo8qpiokoh03gg/0967fa820ce64fe992f8e271c437dddb.jpg?rlkey=v6smpijhk8py4cyxf1mxwbpny&dl=0",
       "NumHeight": 2,
       "NumWidth": 2,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Infiltrator of Realities",
+  "Description": "Древний. Внешний. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File59-ZCongressoftheKeys.c9578f/File59-ZCongressoftheKeysvIII.204f55/Set-aside.7a167a/MimeticNemesis.16fc8a.gmnotes",
   "GUID": "16fc8a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Mimetic Nemesis",
+  "Nickname": "Мимикрирующая погибель",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

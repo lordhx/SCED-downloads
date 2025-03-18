@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5903": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093882983913/27DBD39D606FFD6744D515D83E17DD1A0D98F07A/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1938266093882983649/469352D9DB1DA1F9A645138C3A4B6230152D36E2/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/wcv33xtpnczky3jqlja7w/ef3882a3219c4c3aa231ce49cb473481.jpg?rlkey=lkqcu7fjdgv5q9nmolzxw3m1a&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/o8lwo70jev19aq2ft0ced/142986dbfa1b4a5ca12d52feb4dd6e75.jpg?rlkey=545jb97polq5rqu1e81snzu7c&dl=0",
       "NumHeight": 2,
       "NumWidth": 3,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Commercial Center",
+  "Description": "Александрия.",
   "DragSelectable": true,
   "GMNotes_path": "TheScarletKeys.300fcc/File38-NDogsofWar.caee08/File38-NDogsofWarvIII.3881a2/TheBourse.aac621.gmnotes",
   "GUID": "aac621",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Bourse",
+  "Nickname": "Фондовая биржа",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3129": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/786356000879760156/63ACD954501B669BBDC2D64FAA3FFAE0BBEDFB7F/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/786356000879759384/E2705454B81312E1DE9058EE2389E6CD0018A169/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/p288tizqq58ejoibbehj3/707d16d67e6342b1b67c39802833d8e1.jpg?rlkey=e7ksflqkqagcv9gdb01rpz116&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/orhsvic8qej4nhiy9060a/c967b168f00141308234709ad673bedf.jpg?rlkey=tc9kwr71ch9bnm6fcufdxpm99&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Lodge.",
+  "Description": "Ложа.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheCircleUndone.757324/5ReturntoFortheGreaterGood.20790b/Set-aside.7a167a/Locations.eba741/Library.5e3b52.gmnotes",
   "GUID": "5e3b52",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Library",
+  "Nickname": "Библиотека",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

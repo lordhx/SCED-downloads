@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2759": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527100186/0D63305581E65C95F286CCA4902B7DE796D815BD/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/829135524527103742/0C4DB40889420CFE47BE897944621ABF2ECA52F9/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/cj737um7gab59pgdjhu1z/8790b6a7e71d492eb91ff6a20ffa37f2.jpg?rlkey=f2mqgxihxsz1fdkrwj75hp9ue&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/2pl3v0083cd7pvse2fx49/f4005cdffa754d069ef3704871e7bc98.jpg?rlkey=r4yrc2encxkpeq300neqqd4d0&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Spectral.",
+  "Description": "Потусторонняя.",
   "DragSelectable": true,
   "GMNotes_path": "ReturntoTheCircleUndone.757324/PrologueReturntoDisappearanceattheTwilightEstate.1b8c0f/TrophyRoom.80133f.gmnotes",
   "GUID": "80133f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Trophy Room",
+  "Nickname": "Трофейная комната",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

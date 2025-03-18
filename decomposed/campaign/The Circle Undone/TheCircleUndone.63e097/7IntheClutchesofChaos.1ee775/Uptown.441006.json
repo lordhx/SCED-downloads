@@ -14,15 +14,15 @@
   "CustomDeck": {
     "3695": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/784110538844132994/8CD6465D48CC5909C15DF8CC02BB9060F593F1BA/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/784110538847624119/AC326B629FA308B7F9C7E41069581A8D2B2D77B4/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/3m8wsglv85cvr7vnkl080/1fb48e4854684dc39192b6e939a952cc.jpg?rlkey=gv1lf46ep21wsahjgw4tekfp4&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/vua3u8j8f79uq353c2eyv/2f5b41fc050c4ef79dd3d26db1cb6133.jpg?rlkey=4gz1tz03vt4q7xs0zldy5paiz&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": true
     }
   },
-  "Description": "Arkham.",
+  "Description": "Аркхэм.",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/7IntheClutchesofChaos.1ee775/Uptown.441006.gmnotes",
   "GUID": "441006",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Uptown",
+  "Nickname": "Аптаун",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

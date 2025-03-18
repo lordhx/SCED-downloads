@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2304": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/960860341956220005/42E220A3221D2BFA22F1B3A71EEE346A8B0AAD77/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/d6v5cn22xfs9nfk94d1f7/2c618f4857a34d8eba596a702c2fe0de.jpg?rlkey=is009tjnu5tc22aq0i33sj14a&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Вещь. Инструмент.",
   "DragSelectable": true,
   "GMNotes_path": "TheCircleUndone.63e097/PrologueDisappearanceattheTwilightEstate.2f008a/NeutralInvestigators.fa2600/JeromeDavids.886e03/OpeningHand.b879b9/MagnifyingGlass1.378e84.gmnotes",
   "GUID": "378e84",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Magnifying Glass (1)",
+  "Nickname": "Лупа (1)",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

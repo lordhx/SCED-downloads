@@ -14,15 +14,15 @@
   "CustomDeck": {
     "2663": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/2342503777940352139/A2D42E7E5C43D045D72CE5CFC907E4F886C8C690/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1684870715280867313/BFD2AF968EAC917D3B838DCB8B1656941CD8B5CC/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/l8xh2we39zmqubrumtcfn/63072828d0a44ceb9f0a866ad25ac383.jpg?rlkey=4z8o4mlogm1203k04d6vqdq9w&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/ky436dn8inqovue8n4whs/ca33c05d787c4abdb75853caca59e6c9.jpg?rlkey=rz1woxs5s1v747fhg2ijrtsmp&dl=0",
       "NumHeight": 7,
       "NumWidth": 10,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "",
+  "Description": "Item. Tome.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Set-aside.7a167a/TeachingsoftheOrder.90fdb0.gmnotes",
   "GUID": "90fdb0",

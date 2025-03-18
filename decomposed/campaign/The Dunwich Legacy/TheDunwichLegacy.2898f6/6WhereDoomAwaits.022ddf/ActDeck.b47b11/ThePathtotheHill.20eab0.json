@@ -14,15 +14,15 @@
   "CustomDeck": {
     "5553": {
       "BackIsHidden": true,
-      "BackURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628056378/A53E8D5371C6CD800A2C262B6F9E8072A7F9D8DE/",
-      "FaceURL": "https://steamusercontent-a.akamaihd.net/ugc/1656727981628056243/29063BE86DFAC2EC168E9CE1DABF00C6DC52152F/",
+      "BackURL": "https://dl.dropboxusercontent.com/scl/fi/hnj7mjddfmbt7a8sj8j5l/e1cdab5b39e64f7cae40c83e3ac64b5d.jpg?rlkey=wgzgufbvl5hrwxjp89cqx2tq3&dl=0",
+      "FaceURL": "https://dl.dropboxusercontent.com/scl/fi/wyysunrjdxcwqg4d6n2hj/b17a7c912dae4eceb0c9bd7a79dad599.jpg?rlkey=qd4hxvubne1bfr9zntc890213&dl=0",
       "NumHeight": 1,
       "NumWidth": 1,
       "Type": 0,
       "UniqueBack": false
     }
   },
-  "Description": "Act 1",
+  "Description": "",
   "DragSelectable": true,
   "GMNotes_path": "TheDunwichLegacy.2898f6/6WhereDoomAwaits.022ddf/ActDeck.b47b11/ThePathtotheHill.20eab0.gmnotes",
   "GUID": "20eab0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "CardCustom",
-  "Nickname": "The Path to the Hill",
+  "Nickname": "Путь наверх",
   "SidewaysCard": true,
   "Snap": true,
   "Sticky": true,
