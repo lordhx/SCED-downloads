@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Falcon Point.",
+  "Description": "Фэлкон-Пойнт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/LighthouseKeepersCottage.496013.gmnotes",
   "GUID": "496013",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lighthouse Keeper's Cottage",
+  "Nickname": "Коттедж смотрителя",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

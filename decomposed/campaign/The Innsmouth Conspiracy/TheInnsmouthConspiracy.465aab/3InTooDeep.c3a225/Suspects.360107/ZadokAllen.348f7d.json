@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Suspects.360107/ZadokAllen.348f7d.gmnotes",
   "GUID": "348f7d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Zadok Allen",
+  "Nickname": "Зейдок Аллен",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

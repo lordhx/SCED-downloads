@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/Set-aside.7a167a/Blindsense.301453/Blindsense.4b9a4c.gmnotes",
   "GUID": "4b9a4c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Blindsense",
+  "Nickname": "Плохое предчувствие",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

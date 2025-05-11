@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Coastal.",
+  "Description": "Инсмут. Прибрежная.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/TheHouseonWaterStreet.104e07.gmnotes",
   "GUID": "104e07",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The House on Water Street",
+  "Nickname": "Дом на Уотер-стрит",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

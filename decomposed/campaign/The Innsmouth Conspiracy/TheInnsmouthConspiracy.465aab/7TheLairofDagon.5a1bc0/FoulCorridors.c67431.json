@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Second Floor. Passageway.",
+  "Description": "Второй этаж. Проход.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/FoulCorridors.c67431.gmnotes",
   "GUID": "c67431",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Foul Corridors",
+  "Nickname": "Загаженные коридоры",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

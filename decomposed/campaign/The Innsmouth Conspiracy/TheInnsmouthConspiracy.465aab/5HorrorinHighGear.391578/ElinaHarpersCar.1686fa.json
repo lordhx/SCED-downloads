@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Vehicle.",
+  "Description": "Транспорт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/ElinaHarpersCar.1686fa.gmnotes",
   "GUID": "1686fa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Elina Harper's Car",
+  "Nickname": "Авто Элины Харпер",
   "SidewaysCard": false,
   "Snap": false,
   "Sticky": true,

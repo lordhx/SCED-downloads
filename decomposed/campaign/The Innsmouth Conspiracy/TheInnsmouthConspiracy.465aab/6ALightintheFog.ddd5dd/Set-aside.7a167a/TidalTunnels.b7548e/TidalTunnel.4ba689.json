@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/Set-aside.7a167a/TidalTunnels.b7548e/TidalTunnel.4ba689.gmnotes",
   "GUID": "4ba689",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Pump Room",
+  "Nickname": "Насосная",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

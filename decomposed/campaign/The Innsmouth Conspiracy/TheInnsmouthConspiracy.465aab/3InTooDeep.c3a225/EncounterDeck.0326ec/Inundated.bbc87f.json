@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/EncounterDeck.0326ec/Inundated.bbc87f.gmnotes",
   "GUID": "bbc87f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Inundated",
+  "Nickname": "Потоп",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

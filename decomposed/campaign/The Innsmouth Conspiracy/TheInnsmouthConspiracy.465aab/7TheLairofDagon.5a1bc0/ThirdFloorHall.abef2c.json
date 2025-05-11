@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Third Floor.",
+  "Description": "Третий этаж.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/ThirdFloorHall.abef2c.gmnotes",
   "GUID": "abef2c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Hall of Silence",
+  "Nickname": "Зала тишины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

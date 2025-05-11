@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Monster. Deep One.",
+  "Description": "Гуманоид. Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/EncounterDeck.b909c7/DagonsBrood.c88e2a.gmnotes",
   "GUID": "c88e2a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dagon's Brood",
+  "Nickname": "Отпрыск Дагона",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

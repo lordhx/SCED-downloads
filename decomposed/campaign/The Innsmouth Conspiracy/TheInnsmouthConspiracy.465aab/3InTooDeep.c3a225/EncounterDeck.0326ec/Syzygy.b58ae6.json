@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Omen.",
+  "Description": "Знамение.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/EncounterDeck.0326ec/Syzygy.b58ae6.gmnotes",
   "GUID": "b58ae6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Syzygy",
+  "Nickname": "Сизигия",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

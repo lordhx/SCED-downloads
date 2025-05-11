@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/Suspects.360107/BrianBurnham.ad6f8c.gmnotes",
   "GUID": "ad6f8c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Brian Burnham",
+  "Nickname": "Брайан Бёрнем",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

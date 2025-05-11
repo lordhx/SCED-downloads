@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Curse.",
+  "Description": "Проклятие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/EncounterDeck.e18dd7/HeraldsoftheDeep.d71561.gmnotes",
   "GUID": "d71561",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Heralds of the Deep",
+  "Nickname": "Глашатаи пучины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

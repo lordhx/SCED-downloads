@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/UnfamiliarChamber.1c3217.gmnotes",
   "GUID": "1c3217",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Unfamiliar Chamber",
+  "Nickname": "Незнакомый грот",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

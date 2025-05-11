@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/EncounterDeck.5aca66/DeepOneAssault.f4291b.gmnotes",
   "GUID": "f4291b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Deep One Assault",
+  "Nickname": "Нападение глубоководных",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

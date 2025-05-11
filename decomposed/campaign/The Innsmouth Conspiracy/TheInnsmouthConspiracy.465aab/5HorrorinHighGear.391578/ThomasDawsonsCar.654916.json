@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Vehicle.",
+  "Description": "Транспорт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/ThomasDawsonsCar.654916.gmnotes",
   "GUID": "654916",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Thomas Dawson's Car",
+  "Nickname": "Авто Томаса Доусона",
   "SidewaysCard": false,
   "Snap": false,
   "Sticky": true,

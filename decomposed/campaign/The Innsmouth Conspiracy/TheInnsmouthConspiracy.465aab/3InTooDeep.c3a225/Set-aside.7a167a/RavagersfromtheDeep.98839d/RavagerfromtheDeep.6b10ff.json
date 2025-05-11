@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Monster. Deep One.",
+  "Description": "Гуманоид. Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Set-aside.7a167a/RavagersfromtheDeep.98839d/RavagerfromtheDeep.6b10ff.gmnotes",
   "GUID": "6b10ff",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Ravager from the Deep",
+  "Nickname": "Разоритель из пучины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

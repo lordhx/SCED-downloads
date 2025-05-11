@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Terror.",
+  "Description": "Жуть.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/EncounterDeck.5aca66/FracturedConsciousness.647cf4.gmnotes",
   "GUID": "647cf4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fractured Consciousness",
+  "Nickname": "Раздробленное сознание",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

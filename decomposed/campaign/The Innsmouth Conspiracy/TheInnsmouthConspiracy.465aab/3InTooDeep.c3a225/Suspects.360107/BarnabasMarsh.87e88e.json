@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Suspects.360107/BarnabasMarsh.87e88e.gmnotes",
   "GUID": "87e88e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Barnabas Marsh",
+  "Nickname": "Барнабас Марш",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

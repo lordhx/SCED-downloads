@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/OldInnsmouthRoads.de80aa/OldInnsmouthRoad.07ba2e.gmnotes",
   "GUID": "07ba2e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Cliffside Road",
+  "Nickname": "Дорога на краю утёса",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

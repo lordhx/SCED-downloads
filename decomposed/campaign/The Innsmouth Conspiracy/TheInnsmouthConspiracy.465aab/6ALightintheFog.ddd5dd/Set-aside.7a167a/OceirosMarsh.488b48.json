@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Deep One. Hybrid. Elite.",
+  "Description": "Гуманоид. Глубоководный. Гибрид. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/Set-aside.7a167a/OceirosMarsh.488b48.gmnotes",
   "GUID": "488b48",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Oceiros Marsh",
+  "Nickname": "Осайрос Марш",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/EncounterDeck.e18dd7/FulfilltheOaths.8d74f4.gmnotes",
   "GUID": "8d74f4",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fulfill the Oaths",
+  "Nickname": "Исполнить клятвы",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

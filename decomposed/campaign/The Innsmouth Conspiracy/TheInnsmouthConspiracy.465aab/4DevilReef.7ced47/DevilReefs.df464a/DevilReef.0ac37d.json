@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Ocean. Island.",
+  "Description": "Океан. Остров.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/DevilReefs.df464a/DevilReef.0ac37d.gmnotes",
   "GUID": "0ac37d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Hidden Cove",
+  "Nickname": "Сокрытая заводь",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

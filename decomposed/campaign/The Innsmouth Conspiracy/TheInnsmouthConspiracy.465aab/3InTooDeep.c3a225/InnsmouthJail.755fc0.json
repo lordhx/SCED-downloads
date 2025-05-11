@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Midtown.",
+  "Description": "Инсмут. Городской центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/InnsmouthJail.755fc0.gmnotes",
   "GUID": "755fc0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Jail",
+  "Nickname": "Инсмутская тюрьма",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

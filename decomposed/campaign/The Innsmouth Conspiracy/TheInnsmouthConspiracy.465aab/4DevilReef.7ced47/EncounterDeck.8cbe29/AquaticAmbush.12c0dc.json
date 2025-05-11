@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/EncounterDeck.8cbe29/AquaticAmbush.12c0dc.gmnotes",
   "GUID": "12c0dc",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Aquatic Ambush",
+  "Nickname": "Водная засада",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Hybrid. Cultist.",
+  "Description": "Гуманоид. Гибрид. Культист.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/EncounterDeck.e18dd7/InitiateofDagon.fdd1db.gmnotes",
   "GUID": "fdd1db",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Initiate of Dagon",
+  "Nickname": "Посвящённая Дагона",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

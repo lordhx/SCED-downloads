@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Y'ha-nthlei. Sanctum.",
+  "Description": "Й’ха-нтлеи. Святилище.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/Set-aside.7a167a/Yha-nthleiSanctum.e6b7fd/Yha-nthleiSanctum.6f3267.gmnotes",
   "GUID": "6f3267",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Statues in the Deep",
+  "Nickname": "Статуи пучины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/EncounterDeck.b909c7/TreacherousDepths.f31368.gmnotes",
   "GUID": "f31368",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Treacherous Depths",
+  "Nickname": "Опасные глубины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

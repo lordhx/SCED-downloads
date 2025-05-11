@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Hybrid. Criminal.",
+  "Description": "Гуманоид. Гибрид. Преступник.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/EncounterDeck.0326ec/InnsmouthTroublemaker.e0b755.gmnotes",
   "GUID": "e0b755",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Troublemaker",
+  "Nickname": "Инсмутский дебошир",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

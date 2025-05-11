@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Monster. Deep One.",
+  "Description": "Гуманоид. Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/EncounterDeck.8cbe29/DeepOnePredator.c3156c.gmnotes",
   "GUID": "c3156c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Deep One Predator",
+  "Nickname": "Глубоководный-хищник",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

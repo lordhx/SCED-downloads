@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Monster.",
+  "Description": "Монстр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/EncounterDeck.8cbe29/Lloigor.b1647e.gmnotes",
   "GUID": "b1647e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lloigor",
+  "Nickname": "Ллойгор",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

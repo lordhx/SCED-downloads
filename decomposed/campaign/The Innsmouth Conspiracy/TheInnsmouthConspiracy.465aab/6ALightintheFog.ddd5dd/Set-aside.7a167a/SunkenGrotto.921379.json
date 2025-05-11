@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/Set-aside.7a167a/SunkenGrotto.921379.gmnotes",
   "GUID": "921379",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sunken Grotto",
+  "Nickname": "Затонувший грот",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

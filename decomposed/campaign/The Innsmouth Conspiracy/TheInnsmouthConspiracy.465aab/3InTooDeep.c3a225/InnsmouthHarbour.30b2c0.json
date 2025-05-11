@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Coastal.",
+  "Description": "Инсмут. Прибрежная.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/InnsmouthHarbour.30b2c0.gmnotes",
   "GUID": "30b2c0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Harbour",
+  "Nickname": "Гавань Инсмута",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Innsmouth. Hideout.",
+  "Description": "Инсмут. Укрытие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/Hideouts.f3ec1a/SawboneAlley.899c2c.gmnotes",
   "GUID": "899c2c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Sawbone Alley",
+  "Nickname": "Переулок Костоправа",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Hazard.",
+  "Description": "Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/EncounterDeck.5aca66/RisingTides.425da1.gmnotes",
   "GUID": "425da1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Rising Tides",
+  "Nickname": "Вода прибывает",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Monster. Deep One.",
+  "Description": "Гуманоид. Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/EncounterDeck.e18dd7/CerenerianDeepOne.860b1e.gmnotes",
   "GUID": "860b1e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Cerenerian Deep One",
+  "Nickname": "Серенарианский глубоководный",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

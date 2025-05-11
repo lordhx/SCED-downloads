@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/EncounterDeck.556e96/Theyrecatchingup.997756.gmnotes",
   "GUID": "997756",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "\"They're catching up!\"",
+  "Nickname": "«Они нас догоняют!»",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

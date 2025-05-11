@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Shoggoth. Elite.",
+  "Description": "Монстр. Шоггот. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Set-aside.7a167a/InnsmouthShoggoth.01e605.gmnotes",
   "GUID": "01e605",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Shoggoth",
+  "Nickname": "Инсмутский шоггот",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Vehicle.",
+  "Description": "Транспорт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/FishingVessel.1b4fad.gmnotes",
   "GUID": "1b4fad",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fishing Vessel",
+  "Nickname": "Рыболовное судно",
   "SidewaysCard": false,
   "Snap": false,
   "Sticky": true,

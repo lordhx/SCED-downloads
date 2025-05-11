@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/OldInnsmouthRoads.de80aa/OldInnsmouthRoad.02e79c.gmnotes",
   "GUID": "02e79c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fork in the Road",
+  "Nickname": "Распутье",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

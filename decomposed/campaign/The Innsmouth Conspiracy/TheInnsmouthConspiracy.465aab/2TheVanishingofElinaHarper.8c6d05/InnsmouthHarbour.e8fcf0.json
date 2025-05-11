@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth.",
+  "Description": "Инсмут.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/InnsmouthHarbour.e8fcf0.gmnotes",
   "GUID": "e8fcf0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Harbour",
+  "Nickname": "Гавань Инсмута",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

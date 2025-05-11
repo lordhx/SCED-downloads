@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Item. Armor.",
+  "Description": "Вещь. Защита.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/DivingSuits.e377ef/DivingSuit.c8fe28.gmnotes",
   "GUID": "c8fe28",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Diving Suit",
+  "Nickname": "Водолазный костюм",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

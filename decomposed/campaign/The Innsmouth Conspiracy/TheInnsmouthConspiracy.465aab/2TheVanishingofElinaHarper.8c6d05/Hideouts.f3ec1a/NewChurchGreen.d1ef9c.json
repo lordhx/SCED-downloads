@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Innsmouth. Hideout.",
+  "Description": "Инсмут. Укрытие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/Hideouts.f3ec1a/NewChurchGreen.d1ef9c.gmnotes",
   "GUID": "d1ef9c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "New Church Green",
+  "Nickname": "Нью-Чёрч-Грин",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

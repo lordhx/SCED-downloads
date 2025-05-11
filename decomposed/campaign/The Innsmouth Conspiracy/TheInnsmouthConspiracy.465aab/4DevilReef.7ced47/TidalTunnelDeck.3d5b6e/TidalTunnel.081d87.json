@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/TidalTunnelDeck.3d5b6e/TidalTunnel.081d87.gmnotes",
   "GUID": "081d87",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Bootlegger's Hideaway",
+  "Nickname": "Тайник бутлегеров",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

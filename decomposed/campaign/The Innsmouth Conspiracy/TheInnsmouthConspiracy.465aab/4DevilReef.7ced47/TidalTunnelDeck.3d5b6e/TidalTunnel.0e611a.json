@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/TidalTunnelDeck.3d5b6e/TidalTunnel.0e611a.gmnotes",
   "GUID": "0e611a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Underground River",
+  "Nickname": "Подземная река",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

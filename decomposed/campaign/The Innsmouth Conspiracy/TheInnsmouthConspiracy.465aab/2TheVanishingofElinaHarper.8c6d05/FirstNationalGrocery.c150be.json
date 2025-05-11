@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth.",
+  "Description": "Инсмут.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/FirstNationalGrocery.c150be.gmnotes",
   "GUID": "c150be",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "First National Grocery",
+  "Nickname": "Бакалейная лавка",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

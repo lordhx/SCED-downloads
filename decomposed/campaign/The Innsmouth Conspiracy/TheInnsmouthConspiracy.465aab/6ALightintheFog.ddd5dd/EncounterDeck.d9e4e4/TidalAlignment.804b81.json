@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Omen.",
+  "Description": "Знамение.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/EncounterDeck.d9e4e4/TidalAlignment.804b81.gmnotes",
   "GUID": "804b81",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Tidal Alignment",
+  "Nickname": "Приливный парад",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

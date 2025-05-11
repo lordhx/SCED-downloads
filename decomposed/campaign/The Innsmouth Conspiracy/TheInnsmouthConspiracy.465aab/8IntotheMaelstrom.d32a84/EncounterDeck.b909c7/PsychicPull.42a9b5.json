@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Power.",
+  "Description": "Мощь.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/8IntotheMaelstrom.d32a84/EncounterDeck.b909c7/PsychicPull.42a9b5.gmnotes",
   "GUID": "42a9b5",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Psychic Pull",
+  "Nickname": "Телепатическая тяга",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

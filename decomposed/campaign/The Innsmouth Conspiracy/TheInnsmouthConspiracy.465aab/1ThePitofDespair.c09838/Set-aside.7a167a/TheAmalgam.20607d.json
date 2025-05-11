@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Abomination. Deep One. Elite.",
+  "Description": "Монстр. Чудовище. Глубоководный. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/Set-aside.7a167a/TheAmalgam.20607d.gmnotes",
   "GUID": "20607d",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "The Amalgam",
+  "Nickname": "Амальгама",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

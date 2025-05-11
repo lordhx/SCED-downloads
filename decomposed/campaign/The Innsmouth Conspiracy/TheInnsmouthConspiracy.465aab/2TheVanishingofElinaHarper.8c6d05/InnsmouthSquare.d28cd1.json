@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Central.",
+  "Description": "Инсмут. Центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/InnsmouthSquare.d28cd1.gmnotes",
   "GUID": "d28cd1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Innsmouth Square",
+  "Nickname": "Площадь Инсмута",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Falcon Point.",
+  "Description": "Фэлкон-Пойнт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/FalconPointCliffside.0c7bc9.gmnotes",
   "GUID": "0c7bc9",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Falcon Point Cliffside",
+  "Nickname": "Край утёса",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Terror.",
+  "Description": "Жуть.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/EncounterDeck.556e96/MacabreMemento.64b396.gmnotes",
   "GUID": "64b396",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Macabre Memento",
+  "Nickname": "Напоминание о смерти",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

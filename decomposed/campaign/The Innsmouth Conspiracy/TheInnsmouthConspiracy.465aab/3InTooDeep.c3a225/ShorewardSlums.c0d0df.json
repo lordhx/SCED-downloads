@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Coastal. Midtown.",
+  "Description": "Инсмут. Прибрежная. Городской центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/ShorewardSlums.c0d0df.gmnotes",
   "GUID": "c0d0df",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Shoreward Slums",
+  "Nickname": "Прибрежные трущобы",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

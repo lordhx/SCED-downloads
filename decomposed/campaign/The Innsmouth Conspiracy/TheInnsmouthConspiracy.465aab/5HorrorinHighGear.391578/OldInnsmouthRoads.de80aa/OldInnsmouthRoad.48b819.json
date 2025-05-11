@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/OldInnsmouthRoads.de80aa/OldInnsmouthRoad.48b819.gmnotes",
   "GUID": "48b819",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dimly Lit Road",
+  "Nickname": "Слабо освещённая дорога",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

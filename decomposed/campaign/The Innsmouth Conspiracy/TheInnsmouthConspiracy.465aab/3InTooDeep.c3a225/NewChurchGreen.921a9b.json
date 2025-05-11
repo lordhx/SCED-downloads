@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Midtown.",
+  "Description": "Инсмут. Городской центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/NewChurchGreen.921a9b.gmnotes",
   "GUID": "921a9b",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "New Church Green",
+  "Nickname": "Нью-Чёрч-Грин",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

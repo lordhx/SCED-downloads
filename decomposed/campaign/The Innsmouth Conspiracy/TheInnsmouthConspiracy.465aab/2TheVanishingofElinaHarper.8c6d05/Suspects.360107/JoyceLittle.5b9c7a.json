@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/Suspects.360107/JoyceLittle.5b9c7a.gmnotes",
   "GUID": "5b9c7a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Joyce Little",
+  "Nickname": "Джойс Литтл",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Vehicle. Humanoid. Cultist.",
+  "Description": "Транспорт. Гуманоид. Культист.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/EncounterDeck.556e96/HitVan.83f1e1.gmnotes",
   "GUID": "83f1e1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Hit Van",
+  "Nickname": "Фургон-налётчик",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

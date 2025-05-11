@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/Set-aside.7a167a/TidalTunnels.b7548e/TidalTunnel.7eba72.gmnotes",
   "GUID": "7eba72",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Shrine to Hydra",
+  "Nickname": "Алтарь Гидры",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

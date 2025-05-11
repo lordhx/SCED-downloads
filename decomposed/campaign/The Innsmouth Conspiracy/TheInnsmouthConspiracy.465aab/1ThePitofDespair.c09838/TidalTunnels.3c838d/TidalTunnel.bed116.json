@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave.",
+  "Description": "Пещера.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/1ThePitofDespair.c09838/TidalTunnels.3c838d/TidalTunnel.bed116.gmnotes",
   "GUID": "bed116",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fish Graveyard",
+  "Nickname": "Рыбье кладбище",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

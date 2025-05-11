@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme.",
+  "Description": "Козни.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/Set-aside.7a167a/TakenCaptive.088f24/TakenCaptive.728ea6.gmnotes",
   "GUID": "728ea6",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Taken Captive",
+  "Nickname": "В плену",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Coastal. Midtown.",
+  "Description": "Инсмут. Прибрежная. Городской центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/MarshRefinery.44c342.gmnotes",
   "GUID": "44c342",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Marsh Refinery",
+  "Nickname": "Завод Марша",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Ancient One. Elite.",
+  "Description": "Древний. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/7TheLairofDagon.5a1bc0/Set-aside.7a167a/Dagon.386e1e.gmnotes",
   "GUID": "386e1e",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dagon",
+  "Nickname": "Дагон",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

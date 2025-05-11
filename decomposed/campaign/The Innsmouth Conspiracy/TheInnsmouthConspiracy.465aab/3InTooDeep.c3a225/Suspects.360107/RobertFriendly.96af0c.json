@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Suspects.360107/RobertFriendly.96af0c.gmnotes",
   "GUID": "96af0c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Robert Friendly",
+  "Nickname": "Роберт Френдли",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

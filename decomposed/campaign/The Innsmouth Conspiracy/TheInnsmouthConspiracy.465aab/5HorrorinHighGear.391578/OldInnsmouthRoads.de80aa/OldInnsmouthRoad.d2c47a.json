@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/OldInnsmouthRoads.de80aa/OldInnsmouthRoad.d2c47a.gmnotes",
   "GUID": "d2c47a",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Intersection",
+  "Nickname": "Перекрёсток",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

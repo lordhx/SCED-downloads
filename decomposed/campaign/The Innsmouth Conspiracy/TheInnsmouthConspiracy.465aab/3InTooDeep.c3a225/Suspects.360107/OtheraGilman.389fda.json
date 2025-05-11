@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Suspect. Elite.",
+  "Description": "Гуманоид. Подозреваемый. Элитный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Suspects.360107/OtheraGilman.389fda.gmnotes",
   "GUID": "389fda",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Othera Gilman",
+  "Nickname": "Отера Гилман",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

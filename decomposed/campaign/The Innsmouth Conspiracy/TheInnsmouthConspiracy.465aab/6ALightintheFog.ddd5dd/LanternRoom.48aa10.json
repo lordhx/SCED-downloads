@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Falcon Point.",
+  "Description": "Фэлкон-Пойнт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/LanternRoom.48aa10.gmnotes",
   "GUID": "48aa10",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lantern Room",
+  "Nickname": "Фонарное помещение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

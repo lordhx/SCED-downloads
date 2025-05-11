@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Omen. Terror.",
+  "Description": "Знамение. Жуть.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/EncounterDeck.d9e4e4/Totality.c6a017.gmnotes",
   "GUID": "c6a017",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Totality",
+  "Nickname": "Полное затмение",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

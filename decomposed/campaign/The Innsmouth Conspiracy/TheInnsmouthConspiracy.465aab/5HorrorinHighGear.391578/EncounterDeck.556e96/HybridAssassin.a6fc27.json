@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Vehicle. Humanoid. Hybrid.",
+  "Description": "Транспорт. Гуманоид. Гибрид.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/EncounterDeck.556e96/HybridAssassin.a6fc27.gmnotes",
   "GUID": "a6fc27",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Hybrid Assassin",
+  "Nickname": "Гибрид-убийца",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

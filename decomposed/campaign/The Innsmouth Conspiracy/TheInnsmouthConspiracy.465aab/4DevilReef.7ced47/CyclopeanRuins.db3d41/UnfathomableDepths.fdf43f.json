@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Cave. Y'ha-nthlei.",
+  "Description": "Пещера. Й’ха-нтлеи.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/CyclopeanRuins.db3d41/UnfathomableDepths.fdf43f.gmnotes",
   "GUID": "fdf43f",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Cyclopean Ruins",
+  "Nickname": "Циклопические руины",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

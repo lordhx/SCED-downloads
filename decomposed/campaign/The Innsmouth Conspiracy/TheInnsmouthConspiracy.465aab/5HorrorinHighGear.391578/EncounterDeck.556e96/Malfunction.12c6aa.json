@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Blunder.",
+  "Description": "Промах.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/EncounterDeck.556e96/Malfunction.12c6aa.gmnotes",
   "GUID": "12c6aa",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Malfunction",
+  "Nickname": "Поломка",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

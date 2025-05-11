@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Scheme. Terror.",
+  "Description": "Козни. Жуть.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/4DevilReef.7ced47/EncounterDeck.8cbe29/DraggedUnder.dfa5b7.gmnotes",
   "GUID": "dfa5b7",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Dragged Under",
+  "Nickname": "Утаскивают под воду",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Curse. Hazard.",
+  "Description": "Проклятие. Происшествие.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/EncounterDeck.d9e4e4/KissofBrine.40ec47.gmnotes",
   "GUID": "40ec47",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Kiss of Brine",
+  "Nickname": "Хлебни солёненькой",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

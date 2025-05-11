@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Falcon Point.",
+  "Description": "Фэлкон-Пойнт.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/LighthouseStairwell.b91e4c.gmnotes",
   "GUID": "b91e4c",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Lighthouse Stairwell",
+  "Nickname": "Лестница маяка",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

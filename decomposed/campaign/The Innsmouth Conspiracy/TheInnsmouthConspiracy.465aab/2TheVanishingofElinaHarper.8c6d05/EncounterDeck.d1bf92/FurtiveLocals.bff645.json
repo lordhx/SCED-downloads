@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Terror.",
+  "Description": "Жуть.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/EncounterDeck.d1bf92/FurtiveLocals.bff645.gmnotes",
   "GUID": "bff645",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Furtive Locals",
+  "Nickname": "Скрытные местные жители",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

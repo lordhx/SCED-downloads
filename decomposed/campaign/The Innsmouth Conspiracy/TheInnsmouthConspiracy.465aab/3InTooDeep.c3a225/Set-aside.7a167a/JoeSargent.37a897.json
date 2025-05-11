@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Ally. Hybrid.",
+  "Description": "Союзник. Гибрид.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/Set-aside.7a167a/JoeSargent.37a897.gmnotes",
   "GUID": "37a897",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Joe Sargent",
+  "Nickname": "Джо Сарджент",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

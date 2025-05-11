@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Innsmouth. Coastal. Midtown.",
+  "Description": "Инсмут. Прибрежная. Городской центр.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/FishStreetBridge.a358fc.gmnotes",
   "GUID": "a358fc",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Fish Street Bridge",
+  "Nickname": "Мост на Фиш-стрит",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

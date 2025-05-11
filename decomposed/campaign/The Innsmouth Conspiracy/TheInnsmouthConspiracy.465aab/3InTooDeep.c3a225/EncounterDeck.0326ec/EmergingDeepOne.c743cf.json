@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Monster. Deep One.",
+  "Description": "Гуманоид. Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/3InTooDeep.c3a225/EncounterDeck.0326ec/EmergingDeepOne.c743cf.gmnotes",
   "GUID": "c743cf",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Emerging Deep One",
+  "Nickname": "Всплывший глубоководный",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

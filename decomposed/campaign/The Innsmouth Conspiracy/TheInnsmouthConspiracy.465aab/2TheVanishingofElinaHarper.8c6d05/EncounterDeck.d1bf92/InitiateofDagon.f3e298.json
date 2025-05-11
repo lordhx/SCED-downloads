@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Humanoid. Hybrid. Cultist.",
+  "Description": "Гуманоид. Гибрид. Культист.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/2TheVanishingofElinaHarper.8c6d05/EncounterDeck.d1bf92/InitiateofDagon.f3e298.gmnotes",
   "GUID": "f3e298",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Initiate of Dagon",
+  "Nickname": "Посвящённая Дагона",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

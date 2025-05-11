@@ -22,7 +22,7 @@
       "UniqueBack": false
     }
   },
-  "Description": "Monster. Deep One.",
+  "Description": "Монстр. Глубоководный.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/6ALightintheFog.ddd5dd/EncounterDeck.d9e4e4/DeepOneHatchling.acc4a0.gmnotes",
   "GUID": "acc4a0",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Deep One Hatchling",
+  "Nickname": "Глубоководный-малёк",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

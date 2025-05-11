@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/LongWaysAround.617f07/OldInnsmouthRoad.fda4f7.gmnotes",
   "GUID": "fda4f7",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Long Way Around",
+  "Nickname": "Объезд",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,

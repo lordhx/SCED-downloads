@@ -22,7 +22,7 @@
       "UniqueBack": true
     }
   },
-  "Description": "Road.",
+  "Description": "Дорога.",
   "DragSelectable": true,
   "GMNotes_path": "TheInnsmouthConspiracy.465aab/5HorrorinHighGear.391578/OldInnsmouthRoad.b4e0a1.gmnotes",
   "GUID": "b4e0a1",
@@ -37,7 +37,7 @@
   "LuaScriptState": "",
   "MeasureMovement": false,
   "Name": "Card",
-  "Nickname": "Falcon Point Approach",
+  "Nickname": "Подъезд к Фэлкон-Пойнт",
   "SidewaysCard": false,
   "Snap": true,
   "Sticky": true,
